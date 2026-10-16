@@ -17,7 +17,7 @@ header{display:flex;justify-content:space-between;align-items:center;padding:38p
 .company-title-row{display:block;margin-bottom:8px;min-height:26px;padding-right:112px}.company-logo-wrap{position:absolute;top:18px;right:18px;width:96px;height:58px;display:flex;align-items:center;justify-content:center;overflow:hidden}.company-logo{display:block;max-width:96px;max-height:58px;width:auto;height:auto;object-fit:contain;object-position:center}.company-name{font-size:19px;font-weight:800;white-space:nowrap;word-break:keep-all;overflow:visible;margin-bottom:0}.pills{padding-right:112px}
 .pills{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}.pill{display:inline-block;border:1px solid #E7C5C8;background:var(--pill);color:#9E3441;border-radius:999px;padding:3px 8px;font-size:11px;white-space:nowrap}
 .product{font-size:13px;margin-bottom:8px;color:#2F2A26}.meta{font-size:12px;color:var(--muted);padding-bottom:13px;border-bottom:1px solid #E8DFD8}
-.latest-label{font-size:12px;font-weight:800;margin-top:12px}.latest{font-size:12.5px;line-height:1.48;margin-top:2px;word-break:keep-all}
+.latest-label{font-size:12px;font-weight:800;margin-top:12px}.latest{font-size:12.5px;line-height:1.48;margin-top:2px;word-break:keep-all}.homepage-btn{display:inline-block;margin-left:10px;padding:3px 8px;border:1px solid #D8CCC4;background:#fff;color:var(--red);font-size:11px;font-weight:700;text-decoration:none;white-space:nowrap;vertical-align:middle}.homepage-btn:hover{border-color:var(--red)}
 .timeline-view{display:none}.timeline-view.active{display:block}.company-view.hidden{display:none}
 .timeline-list{background:#fff;border-top:1px solid var(--line)}
 .timeline-row{display:grid;grid-template-columns:190px minmax(0,1fr) 112px;gap:20px;padding:18px 14px;border-bottom:1px solid var(--line);align-items:start;min-height:104px}
@@ -100,7 +100,7 @@ function renderCompanies(){
       <div class="company-title-row"><div class="company-logo-wrap"><img class="company-logo" src="${companyLogos[x.name]||''}" alt="${x.name} 로고"></div><div class="company-name">${x.name}</div></div>
       <div class="pills"><span class="pill">${x.category||"-"}</span><span class="pill">${x.subcat||"-"}</span><span class="pill">${x.stage||"-"}</span></div>
       <div class="product">${x.product||""}</div>
-      <div class="meta">${x.location||"-"} · 선정 ${x.year||"-"}</div>
+      <div class="meta">${x.location||"-"} · 선정 ${x.year||"-"}${x.url?`<a class="homepage-btn" href="${x.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">홈페이지</a>`:""}</div>
       <div class="latest-label">최근 성과</div>
       <div class="latest">${latest?latest.display_text:"성과 미등록"}</div>
     </article>`;
@@ -139,6 +139,7 @@ function refresh(){renderCompanies();renderTimeline();}
 ["q","cat","stage","yearF","tagF"].forEach(id=>$(id).addEventListener(id==="q"?"input":"change",refresh));
 
 $("companyGrid").addEventListener("click",(event)=>{
+  if(event.target.closest(".homepage-btn")) return;
   const card=event.target.closest(".company-card");
   if(!card) return;
   selectedCompany=card.dataset.company||"";
