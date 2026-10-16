@@ -1,0 +1,81 @@
+from pathlib import Path
+import json
+import re
+
+p = Path('index.html')
+text = p.read_text(encoding='utf-8')
+
+cm = re.search(r'const companies=(\[.*?\]);\s*const events=', text, re.S)
+em = re.search(r'const events=(\[.*?\]);\s*const \$=', text, re.S)
+if not cm or not em:
+    raise SystemExit('Embedded company/event arrays not found in index.html')
+
+companies = json.loads(cm.group(1))
+events = json.loads(em.group(1))
+
+data = Path('data')
+data.mkdir(exist_ok=True)
+(data / 'companies.json').write_text(
+    json.dumps(companies, ensure_ascii=False, indent=2), encoding='utf-8'
+)
+(data / 'approved_events.json').write_text(
+    json.dumps({
+        'schema_version': 1,
+        'updated_at': '2026-10-16T14:06:00+09:00',
+        'events': events,
+    }, ensure_ascii=False, indent=2),
+    encoding='utf-8',
+)
+
+text = re.sub(
+    r'const companies=\[.*?\];\s*const events=\[.*?\];',
+    'let companies=[];\nlet events=[];',
+    text,
+    count=1,
+    flags=re.S,
+)
+
+init = re.search(
+    r'const \$=id=>document\.getElementById\(id\);\s*let selectedCompany="";\s*'
+    r'\[\.\.\.new Set\(companies\.map\(x=>x\.stage\).*?'
+    r'\["수상","투자","기술개발","MOU","판로개척","수출","인증"\]\.forEach\(x=>\$\("tagF"\)\.insertAdjacentHTML\("beforeend",`<option>\$\{x\}</option>`\)\);',
+    text,
+    re.S,
+)
+if not init:
+    raise SystemExit('Initialization block not found')
+
+replacement = '''const $=id=>document.getElementById(id);
+let selectedCompany="";
+
+function populateFilters(){
+  $("stage").innerHTML='<option value="">투자단계 전체</option>';
+  [...new Set(companies.map(x=>x.stage).filter(Boolean))].sort().forEach(x=>$("stage").insertAdjacentHTML("beforeend",`<option>${x}</option>`));
+  $("yearF").innerHTML='<option value="">성과연도 전체</option>';
+  [...new Set(events.map(x=>x.year).filter(x=>/^\\d{4}$/.test(x)))].sort().reverse().forEach(x=>$("yearF").insertAdjacentHTML("beforeend",`<option>${x}</option>`));
+  $("tagF").innerHTML='<option value="">성과태그 전체</option>';
+  ["수상","투자","기술개발","MOU","판로개척","수출","인증"].forEach(x=>$("tagF").insertAdjacentHTML("beforeend",`<option>${x}</option>`));
+}
+
+async function loadSharedData(){
+  const [companyRes,eventRes]=await Promise.all([
+    fetch('./data/companies.json',{cache:'no-store'}),
+    fetch('./data/approved_events.json',{cache:'no-store'})
+  ]);
+  if(!companyRes.ok||!eventRes.ok) throw new Error('DIPS DB load failed');
+  companies=await companyRes.json();
+  const eventData=await eventRes.json();
+  events=Array.isArray(eventData)?eventData:(eventData.events||[]);
+  populateFilters();
+  refresh();
+}
+'''
+
+text = text[:init.start()] + replacement + text[init.end():]
+
+idx = text.rfind('refresh();')
+if idx < 0:
+    raise SystemExit('Final refresh call not found')
+loader = '''loadSharedData().catch(err=>{\n  console.error(err);\n  $("companyGrid").innerHTML='<div class="empty">데이터를 불러오지 못했습니다.</div>';\n});'''
+text = text[:idx] + loader + text[idx + len('refresh();'):]
+p.write_text(text, encoding='utf-8')
