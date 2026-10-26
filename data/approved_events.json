@@ -1,7 +1,51 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T14:06:00+09:00",
+  "updated_at": "2026-10-26T16:29:00+09:00",
   "events": [
+    {
+      "company": "오후두시랩 주식회사",
+      "date": "2026-10-23",
+      "year": "2026",
+      "text": "2026 대한민국 ESG 친환경대전에서 그린플로 탄소관리 서비스 4종 공개",
+      "display_text": "(’26.10월) 대한민국 ESG 친환경대전에서 그린플로 탄소관리 서비스 4종 공개",
+      "tag": "기술개발",
+      "url": "https://www.etnews.com/20261023000367",
+      "evidence": true,
+      "source_kind": "approved_vol02"
+    },
+    {
+      "company": "카본밸류",
+      "date": "2026-10-22",
+      "year": "2026",
+      "text": "U-Global Bridge UK 프로그램 참여, 영국 현지 투자사·혁신기관 교류",
+      "display_text": "(’26.10월) U-Global Bridge UK 참가 및 영국 현지 협력 기회 발굴",
+      "tag": "판로개척",
+      "url": "https://www.venturesquare.net/1121795",
+      "evidence": true,
+      "source_kind": "approved_vol02"
+    },
+    {
+      "company": "주식회사 파일러니어",
+      "date": "2026-10-15",
+      "year": "2026",
+      "text": "2026 경기도 기후테크 경진대회 우수상 수상",
+      "display_text": "(’26.10월) 경기도 기후테크 경진대회 우수상 수상",
+      "tag": "수상",
+      "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71744",
+      "evidence": true,
+      "source_kind": "approved_vol02"
+    },
+    {
+      "company": "(주)에너리치",
+      "date": "2026-10-15",
+      "year": "2026",
+      "text": "2026 경기도 탄소중립펀드 투자유치 발표대회 초기기업 부문 최우수상",
+      "display_text": "(’26.10월) 경기도 탄소중립펀드 투자유치 발표대회 초기기업 최우수상",
+      "tag": "수상",
+      "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71744",
+      "evidence": true,
+      "source_kind": "approved_vol02"
+    },
     {
       "company": "주식회사 퍼스트랩",
       "date": "2026-10-14",
@@ -23,6 +67,17 @@
       "url": "https://www.hankyung.com/article/202610081844P",
       "evidence": true,
       "source_kind": "approved"
+    },
+    {
+      "company": "(주)뉴라이즌",
+      "date": "2026-10-06",
+      "year": "2026",
+      "text": "주한 사우디아라비아 대사관 상무관과 차세대 수처리 필터 소재 기술 교류 간담회",
+      "display_text": "(’26.10월) 사우디아라비아 상무관과 수처리 필터 기술교류 (10.15 보도)",
+      "tag": "판로개척",
+      "url": "https://www.news1.kr/local/busan-gyeongnam/6321092",
+      "evidence": true,
+      "source_kind": "approved_vol02_backfill"
     },
     {
       "company": "주식회사 트윈위즈",
@@ -133,6 +188,28 @@
       "url": "https://v.daum.net/v/20260804111641441",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 이유씨엔씨",
+      "date": "2026-08",
+      "year": "2026",
+      "text": "서울시 차열도료 공급",
+      "display_text": "('26.8월) 서울시 차열도료 공급",
+      "tag": "판로개척",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 퍼스트랩",
+      "date": "2026-08",
+      "year": "2026",
+      "text": "SK 임팩트부스터 육성기업 선정",
+      "display_text": "('26.8월) SK 임팩트부스터 육성기업 선정",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 이유씨엔씨",
@@ -267,6 +344,28 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2026-07",
+      "year": "2026",
+      "text": "Series A 250억 투자",
+      "display_text": "('26.7월) Series A 250억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 퍼스트랩",
+      "date": "2026-07",
+      "year": "2026",
+      "text": "JETRO 일본 직접투자 촉진 사업 보조금 지원대상 선정",
+      "display_text": "('26.7월) JETRO 일본 직접투자 촉진 사업 보조금 지원대상 선정",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "주식회사 퍼스트랩",
       "date": "2026-06-29",
       "year": "2026",
@@ -366,6 +465,28 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 스타스테크",
+      "date": "2026-06",
+      "year": "2026",
+      "text": "서울베이스와 페넬라겔 프렌 배치 바이 시노 서울베이스 코스메틱 출시",
+      "display_text": "('26.6월) 서울베이스와 페넬라겔 프렌 배치 바이 시노 서울베이스 코스메틱 출시",
+      "tag": "판로개척",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 워터트리네즈",
+      "date": "2026-06",
+      "year": "2026",
+      "text": "한국수자원공사 협력기관 선정",
+      "display_text": "('26.6월) 한국수자원공사 협력기관 선정",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "(주)뉴라이즌",
       "date": "2026-05",
       "year": "2026",
@@ -454,6 +575,39 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "에코넥트 주식회사",
+      "date": "2026-05",
+      "year": "2026",
+      "text": "포어시스 유통 플랫폼 MOU",
+      "display_text": "('26.5월) 포어시스 유통 플랫폼 MOU",
+      "tag": "MOU",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 워터베이션",
+      "date": "2026-05",
+      "year": "2026",
+      "text": "미국 펀딩 통한 약 7억원 규모 펀딩",
+      "display_text": "('26.5월) 미국 펀딩 통한 약 7억원 규모 펀딩",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사포어시스",
+      "date": "2026-05",
+      "year": "2026",
+      "text": "이탈리아 재료 기업에 제품 수출",
+      "display_text": "('26.5월) 이탈리아 재료 기업에 제품 수출",
+      "tag": "수출",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "플렉셀스페이스 주식회사",
       "date": "2026-04",
       "year": "2026",
@@ -520,6 +674,17 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 스타스테크",
+      "date": "2026-04",
+      "year": "2026",
+      "text": "한국수산자원공단 동해본부 MOU 체결",
+      "display_text": "('26.4월) 한국수산자원공단 동해본부 MOU 체결",
+      "tag": "MOU",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel"
+    },
+    {
       "company": "핵사에너지 주식회사",
       "date": "2026-03-31",
       "year": "2026",
@@ -575,6 +740,17 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 스타스테크",
+      "date": "2026-03",
+      "year": "2026",
+      "text": "코스메틱 브랜드 라보페 제품 출시",
+      "display_text": "('26.3월) 코스메틱 브랜드 라보페 제품 출시",
+      "tag": "판로개척",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "알머티리얼즈 주식회사",
       "date": "2026-02-06",
       "year": "2026",
@@ -628,6 +804,28 @@
       "url": "https://www.grabis.co.kr/company/history",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 피엠에너지솔루션",
+      "date": "2026-02",
+      "year": "2026",
+      "text": "디밀리언과 폐배터리 해체 기술 MOU",
+      "display_text": "('26.2월) 디밀리언과 폐배터리 해체 기술 MOU",
+      "tag": "MOU",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 그래비스",
+      "date": "2026-02",
+      "year": "2026",
+      "text": "미국 법인 설립",
+      "display_text": "('26.2월) 미국 법인 설립",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 그린다",
@@ -705,6 +903,17 @@
       "url": "https://www.elphoton.com/bbs/board.php?bo_table=en_news&wr_id=8",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 이유씨엔씨",
+      "date": "2026-01",
+      "year": "2026",
+      "text": "인천조달청 우수조달물품 지정",
+      "display_text": "('26.1월) 인천조달청 우수조달물품 지정",
+      "tag": "판로개척",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 앤서레이",
@@ -839,6 +1048,50 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사포어시스",
+      "date": "2025-12",
+      "year": "2025",
+      "text": "생산 기술 ISCC PULS(국제 지속가능성 및 탄소 인증) 인증",
+      "display_text": "('25.12월) 생산 기술 ISCC PULS(국제 지속가능성 및 탄소 인증) 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 코솔러스",
+      "date": "2025-12",
+      "year": "2025",
+      "text": "Series A 투자",
+      "display_text": "('25.12월) Series A 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "에코리뉴 주식회사",
+      "date": "2025-12",
+      "year": "2025",
+      "text": "Pre-A 20억 투자",
+      "display_text": "(25.12월) Pre-A 20억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "에코리뉴 주식회사",
+      "date": "2025-12",
+      "year": "2025",
+      "text": "ISO 45001 인증",
+      "display_text": "('25.12월) ISO 45001 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "핵사에너지 주식회사",
       "date": "2025-11-08",
       "year": "2025",
@@ -971,6 +1224,61 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 워터트리네즈",
+      "date": "2025-11",
+      "year": "2025",
+      "text": "Series A 40억 투자",
+      "display_text": "('25.11월) Series A 40억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 퍼스트랩",
+      "date": "2025-11",
+      "year": "2025",
+      "text": "Pre-A 31억 투자",
+      "display_text": "('25.11월) Pre-A 31억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 에이코트",
+      "date": "2025-11",
+      "year": "2025",
+      "text": "한국기술신용평가 우수등급 TI-3등급 확보",
+      "display_text": "('25.11월) 한국기술신용평가 우수등급 TI-3등급 확보",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 피엠에너지솔루션",
+      "date": "2025-11",
+      "year": "2025",
+      "text": "ISO 인증",
+      "display_text": "('25.11월) ISO 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 리젠티앤아이",
+      "date": "2025-11",
+      "year": "2025",
+      "text": "베트남 GREEN BM사와 MOU",
+      "display_text": "('25.11월) 베트남 GREEN BM사와 MOU",
+      "tag": "MOU",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "알머티리얼즈 주식회사",
       "date": "2025-10-21",
       "year": "2025",
@@ -1070,6 +1378,17 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2025-10",
+      "year": "2025",
+      "text": "이탈리아 위성 기업 엔피씨 스페이스마인드 MOU 체결",
+      "display_text": "('25.10월) 이탈리아 위성 기업 엔피씨 스페이스마인드 MOU 체결",
+      "tag": "MOU",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "주식회사 트윈위즈",
       "date": "2025-09",
       "year": "2025",
@@ -1158,6 +1477,17 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 트윈위즈",
+      "date": "2025-09",
+      "year": "2025",
+      "text": "이노비즈 인증",
+      "display_text": "('25.9월) 이노비즈 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "주식회사 에모닉",
       "date": "2025-08-14",
       "year": "2025",
@@ -1200,6 +1530,17 @@
       "url": "https://www.joongang.co.kr/article/25362833",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "(주)에이브람스",
+      "date": "2025-08",
+      "year": "2025",
+      "text": "Seed 투자",
+      "display_text": "('25.8월) Seed 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 이유씨엔씨",
@@ -1299,6 +1640,17 @@
       "url": "https://green-da.co.kr/media-detail?id=DkcgM2ZbQN1765937407418&type=media",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "(주)피엠아이바이오텍",
+      "date": "2025-07",
+      "year": "2025",
+      "text": "굴패각 기반 식품용 칼슘 출시",
+      "display_text": "('25.7월) 굴패각 기반 식품용 칼슘 출시",
+      "tag": "판로개척",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "카본밸류",
@@ -1444,6 +1796,61 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 트윈위즈",
+      "date": "2025-05",
+      "year": "2025",
+      "text": "독일 호헨슈타인 향균 인증 취득",
+      "display_text": "('25.5월) 독일 호헨슈타인 향균 인증 취득",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 이유씨엔씨",
+      "date": "2025-05",
+      "year": "2025",
+      "text": "인천중소기업인대회 중소벤처기업부장관상 수상",
+      "display_text": "('25.5월) 인천중소기업인대회 중소벤처기업부장관상 수상",
+      "tag": "수상",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "(주)피엠아이바이오텍",
+      "date": "2025-05",
+      "year": "2025",
+      "text": "미국 유통기업에 5년간 제품 공급 계약 체결",
+      "display_text": "('25.5월) 미국 유통기업에 5년간 제품 공급 계약 체결",
+      "tag": "판로개척",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "땡스카본 주식회사",
+      "date": "2025-05",
+      "year": "2025",
+      "text": "베트남 PAEC와 공공 민간 파트너십 계약",
+      "display_text": "('25.5월) 베트남 PAEC와 공공 민간 파트너십 계약",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 그래비스",
+      "date": "2025-05",
+      "year": "2025",
+      "text": "Pre-A 투자",
+      "display_text": "('25.5월) Pre-A 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "주식회사 에모닉",
       "date": "2025-04-23",
       "year": "2025",
@@ -1530,6 +1937,28 @@
       "url": "https://www.bcnhexa.com/About-Us",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 바이오룸",
+      "date": "2025-04",
+      "year": "2025",
+      "text": "무림P&P OI 선정",
+      "display_text": "('25.4월) 무림P&P OI 선정",
+      "tag": "판로개척",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 그린다",
+      "date": "2025-04",
+      "year": "2025",
+      "text": "Pre-A 투자",
+      "display_text": "('25.4월) Pre-A 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "알머티리얼즈 주식회사",
@@ -1620,6 +2049,28 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2025-03",
+      "year": "2025",
+      "text": "Pre-A 50억 투자",
+      "display_text": "('25.3월) Pre-A 50억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "(주)뉴라이즌",
+      "date": "2025-03",
+      "year": "2025",
+      "text": "~'26.5월) Pre-IPO 누적 215억 투자",
+      "display_text": "('25.3월~'26.5월) Pre-IPO 누적 215억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "쏠레케미칼주식회사",
       "date": "2025-02-20",
       "year": "2025",
@@ -1684,6 +2135,17 @@
       "url": "https://www.hankookilbo.com/news/article/A2025022109160003205",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "(주)뉴라이즌",
+      "date": "2025-02",
+      "year": "2025",
+      "text": "투자용기술평가 TI-1등급 획득",
+      "display_text": "('25.2월) 투자용기술평가 TI-1등급 획득",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 아미스트",
@@ -1906,6 +2368,61 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "로드원",
+      "date": "2024-12",
+      "year": "2024",
+      "text": "강원랜드 넥스트유니콘 청년기업 선발",
+      "display_text": "(24.12월) 강원랜드 넥스트유니콘 청년기업 선발",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel"
+    },
+    {
+      "company": "(주)에너리치",
+      "date": "2024-12",
+      "year": "2024",
+      "text": "북유럽 국가 Latvia 제품 수출",
+      "display_text": "('24.12월) 북유럽 국가 Latvia 제품 수출",
+      "tag": "수출",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 피엠에너지솔루션",
+      "date": "2024-12",
+      "year": "2024",
+      "text": "현대차 충전기 양산",
+      "display_text": "('24.12월) 현대차 충전기 양산",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 바이오룸",
+      "date": "2024-12",
+      "year": "2024",
+      "text": "제 18회 대한민국 우수특허 바이오 부문 선정 대상",
+      "display_text": "('24.12월) 제 18회 대한민국 우수특허 바이오 부문 선정 대상",
+      "tag": "수상",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "에코리뉴 주식회사",
+      "date": "2024-12",
+      "year": "2024",
+      "text": "ISO 9001, 14001 인증",
+      "display_text": "('24.12월) ISO 9001, 14001 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "핵사에너지 주식회사",
       "date": "2024-11-30",
       "year": "2024",
@@ -2005,6 +2522,28 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "(주)뉴라이즌",
+      "date": "2024-11",
+      "year": "2024",
+      "text": "인도 차량용 에어필터 공급 MOU 체결",
+      "display_text": "('24.11월) 인도 차량용 에어필터 공급 MOU 체결",
+      "tag": "MOU",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "핵사에너지 주식회사",
+      "date": "2024-11",
+      "year": "2024",
+      "text": "Seed 1억 투자",
+      "display_text": "('24.11월) Seed 1억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "주식회사 이유씨엔씨",
       "date": "2024-10-29",
       "year": "2024",
@@ -2091,6 +2630,61 @@
       "url": "https://kr.cosolus.com/733253277",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2024-10",
+      "year": "2024",
+      "text": "Seed 6억 투자",
+      "display_text": "('24.10월) Seed 6억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 아미스트",
+      "date": "2024-10",
+      "year": "2024",
+      "text": "KOTRA수출 초보 기업 등록",
+      "display_text": "('24.10월) KOTRA수출 초보 기업 등록",
+      "tag": "수출",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 워터트리네즈",
+      "date": "2024-10",
+      "year": "2024",
+      "text": "Seed 16억 투자",
+      "display_text": "('24.10월) Seed 16억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 이유씨엔씨",
+      "date": "2024-10",
+      "year": "2024",
+      "text": "녹색기술제품 확인서 취득",
+      "display_text": "('24.10월) 녹색기술제품 확인서 취득",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 피엠에너지솔루션",
+      "date": "2024-10",
+      "year": "2024",
+      "text": "스피어아워와 베트남 이차전지 사업진출 MOU",
+      "display_text": "(24.10월) 스피어아워와 베트남 이차전지 사업진출 MOU",
+      "tag": "MOU",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 이유씨엔씨",
@@ -2192,6 +2786,39 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "휴마스터",
+      "date": "2024-09",
+      "year": "2024",
+      "text": "NET 신기술 인증",
+      "display_text": "('24.9월) NET 신기술 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "(주)에이브람스",
+      "date": "2024-09",
+      "year": "2024",
+      "text": "ISO 9001, 14001, 45001 인증",
+      "display_text": "('24.9월) ISO 9001, 14001, 45001 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 파일러니어",
+      "date": "2024-09",
+      "year": "2024",
+      "text": "수리엔과 전기차 충전소 유지보수 MOU",
+      "display_text": "('24.9월) 수리엔과 전기차 충전소 유지보수 MOU",
+      "tag": "MOU",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "쏠레케미칼주식회사",
       "date": "2024-08",
       "year": "2024",
@@ -2201,6 +2828,17 @@
       "url": "https://www.solechemical.com/42?amp;&page=1",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 아미스트",
+      "date": "2024-08",
+      "year": "2024",
+      "text": "Seed 투자 유치",
+      "display_text": "('24.8월) Seed 투자 유치",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 아미스트",
@@ -2291,6 +2929,28 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 아미스트",
+      "date": "2024-07",
+      "year": "2024",
+      "text": "POSCO IMP 선정",
+      "display_text": "('24.7월) POSCO IMP 선정",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 바이오룸",
+      "date": "2024-07",
+      "year": "2024",
+      "text": "Seed 2억 투자",
+      "display_text": "('24.7월) Seed 2억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "(주)에이브람스",
       "date": "2024-06",
       "year": "2024",
@@ -2368,6 +3028,39 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2024-06",
+      "year": "2024",
+      "text": "미국 위성 제조기업 테란 오비탈 MOU 체결",
+      "display_text": "('24.6월) 미국 위성 제조기업 테란 오비탈 MOU 체결",
+      "tag": "MOU",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 리하베스트",
+      "date": "2024-06",
+      "year": "2024",
+      "text": "B-crop 인증 획득",
+      "display_text": "('24.6월) B-crop 인증 획득",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "(주)피엠아이바이오텍",
+      "date": "2024-06",
+      "year": "2024",
+      "text": "해양수산부 장관상 수상",
+      "display_text": "('24.6월) 해양수산부 장관상 수상",
+      "tag": "수상",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "(주)에이브람스",
       "date": "2024-05",
       "year": "2024",
@@ -2412,6 +3105,50 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 스타스테크",
+      "date": "2024-05",
+      "year": "2024",
+      "text": "Series C 150억 투자",
+      "display_text": "('24.5월) Series C 150억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "(주)에이브람스",
+      "date": "2024-05",
+      "year": "2024",
+      "text": "대기 환경전문공사업 등록증 취득",
+      "display_text": "('24.5월) 대기 환경전문공사업 등록증 취득",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "땡스카본 주식회사",
+      "date": "2024-05",
+      "year": "2024",
+      "text": "Seed 투자",
+      "display_text": "('24.5월) Seed 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 그래비스",
+      "date": "2024-05",
+      "year": "2024",
+      "text": "GraBeads NCB 출시",
+      "display_text": "('24.5월) GraBeads NCB 출시",
+      "tag": "판로개척",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "알머티리얼즈 주식회사",
       "date": "2024-04",
       "year": "2024",
@@ -2431,6 +3168,17 @@
       "tag": "기타",
       "url": "https://magazine.hankyung.com/job-joy/article/202501184710d",
       "evidence": true,
+      "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 블루랩스",
+      "date": "2024-04",
+      "year": "2024",
+      "text": "글로벌 엑셀러레이터 테크스타즈 프로그램 선정",
+      "display_text": "('24.4월) 글로벌 엑셀러레이터 테크스타즈 프로그램 선정",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
       "source_kind": "source_excel"
     },
     {
@@ -2465,6 +3213,28 @@
       "url": "https://www.pangyotechnovalley.org/base/board/read?boardManagementNo=16&boardNo=3076&menuLevel=&menuNo=",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 트윈위즈",
+      "date": "2024-01",
+      "year": "2024",
+      "text": "중소기업 살생물제품 승인 지원사업 선정",
+      "display_text": "('24.1월) 중소기업 살생물제품 승인 지원사업 선정",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 타이가글로벌",
+      "date": "2024-01",
+      "year": "2024",
+      "text": "CES 2024 혁신상 수상",
+      "display_text": "('24.1월) CES 2024 혁신상 수상",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "쏠레케미칼주식회사",
@@ -2511,6 +3281,17 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 앤서레이",
+      "date": "2024",
+      "year": "2024",
+      "text": "이노비즈 인증",
+      "display_text": "('24.월) 이노비즈 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "(주)에이브람스",
       "date": "2023-12",
       "year": "2023",
@@ -2553,6 +3334,39 @@
       "url": "https://www.grabis.co.kr/company/history",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "카본밸류",
+      "date": "2023-12",
+      "year": "2023",
+      "text": "Pre-A 50억 투자",
+      "display_text": "('23.12월) Pre-A 50억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "오후두시랩 주식회사",
+      "date": "2023-12",
+      "year": "2023",
+      "text": "B-Corp 인증",
+      "display_text": "('23.12월) B-Corp 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 그린다",
+      "date": "2023-12",
+      "year": "2023",
+      "text": "그린다 일본 법인 설립",
+      "display_text": "('23.12월) 그린다 일본 법인 설립",
+      "tag": "기타",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 그래비스",
@@ -2610,6 +3424,28 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "핵사에너지 주식회사",
+      "date": "2023-11",
+      "year": "2023",
+      "text": "융합연구 아이디어 공모전 과기부 장관상 수상",
+      "display_text": "('23.11월) 융합연구 아이디어 공모전 과기부 장관상 수상",
+      "tag": "수상",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 에이코트",
+      "date": "2023-11",
+      "year": "2023",
+      "text": "Pre-A 11억 투자",
+      "display_text": "('23.11월) Pre-A 11억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "주식회사 트윈위즈",
       "date": "2023-10",
       "year": "2023",
@@ -2619,6 +3455,28 @@
       "url": "https://www.twinwiz.co.kr/company/certifications.html",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 블루랩스",
+      "date": "2023-10",
+      "year": "2023",
+      "text": "ISO 9001, 14001 인증",
+      "display_text": "('23.10월) ISO 9001, 14001 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 블루랩스",
+      "date": "2023-10",
+      "year": "2023",
+      "text": "Seed 3억 투자",
+      "display_text": "('23.10월) Seed 3억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 플로워크연구소",
@@ -2654,6 +3512,39 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "(주)뉴라이즌",
+      "date": "2023-09",
+      "year": "2023",
+      "text": "아프리카 10개국 수출 계약 체결",
+      "display_text": "('23.9월) 아프리카 10개국 수출 계약 체결",
+      "tag": "수출",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 워터베이션",
+      "date": "2023-09",
+      "year": "2023",
+      "text": "~11월) Seed 누적 3억 투자",
+      "display_text": "('23.9월~11월) Seed 누적 3억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "알머티리얼즈 주식회사",
+      "date": "2023-09",
+      "year": "2023",
+      "text": "Seed 투자",
+      "display_text": "('23.9월) Seed 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "(주)에이브람스",
       "date": "2023-08",
       "year": "2023",
@@ -2663,6 +3554,17 @@
       "url": "https://www.abrs.kr/mobile/design/subpage/subpage1.php?id=4",
       "evidence": true,
       "source_kind": "approved"
+    },
+    {
+      "company": "주식회사 퍼스트랩",
+      "date": "2023-08",
+      "year": "2023",
+      "text": "Seed 2억 투자",
+      "display_text": "('23.8월) Seed 2억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "에코넥트 주식회사",
@@ -2687,6 +3589,50 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 리하베스트",
+      "date": "2023-07",
+      "year": "2023",
+      "text": "녹색기술 기업 인증",
+      "display_text": "('23.7월) 녹색기술 기업 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "에코넥트 주식회사",
+      "date": "2023-07",
+      "year": "2023",
+      "text": "Seed 투자",
+      "display_text": "('23.7월) Seed 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사포어시스",
+      "date": "2023-06",
+      "year": "2023",
+      "text": "Series A 20억 투자",
+      "display_text": "('23.6월) Series A 20억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 그린다",
+      "date": "2023-06",
+      "year": "2023",
+      "text": "ISO 9001, 14001 인증",
+      "display_text": "('23.6월) ISO 9001, 14001 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "주식회사 아미스트",
       "date": "2023-05",
       "year": "2023",
@@ -2696,6 +3642,17 @@
       "url": "https://amist.co.kr/company/history.php",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "오후두시랩 주식회사",
+      "date": "2023-05",
+      "year": "2023",
+      "text": "Seed 투자 유치",
+      "display_text": "('23.5월) Seed 투자 유치",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "로드원",
@@ -2718,6 +3675,17 @@
       "url": "https://www.venturesquare.net/887686",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 리하베스트",
+      "date": "2023-04",
+      "year": "2023",
+      "text": "Series A 누적 80억 투자",
+      "display_text": "('23.4월) Series A 누적 80억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "알머티리얼즈 주식회사",
@@ -2830,6 +3798,50 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "(주)피엠아이바이오텍",
+      "date": "2023-03",
+      "year": "2023",
+      "text": "녹색기술인증",
+      "display_text": "('23.3월) 녹색기술인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 리하베스트",
+      "date": "2023-02",
+      "year": "2023",
+      "text": "국가식품산업클러스터 농림축산식품부 장관 표창장",
+      "display_text": "('23.2월) 국가식품산업클러스터 농림축산식품부 장관 표창장",
+      "tag": "수상",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "로드원",
+      "date": "2023-02",
+      "year": "2023",
+      "text": "벤처나라 입점",
+      "display_text": "('23.2월) 벤처나라 입점",
+      "tag": "판로개척",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 에이코트",
+      "date": "2023-02",
+      "year": "2023",
+      "text": "Seed 1억 투자",
+      "display_text": "('23.2월) Seed 1억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
       "company": "주식회사 아미스트",
       "date": "2023-01",
       "year": "2023",
@@ -2839,6 +3851,28 @@
       "url": "https://www.amist.co.kr/company/history.php",
       "evidence": true,
       "source_kind": "approved"
+    },
+    {
+      "company": "주식회사 트윈위즈",
+      "date": "2023-01",
+      "year": "2023",
+      "text": "Pre-A 20억 투자",
+      "display_text": "('23.1월) Pre-A 20억 투자",
+      "tag": "투자",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 트윈위즈",
+      "date": "2023-01",
+      "year": "2023",
+      "text": "ISO 9001, ISO14001 인증",
+      "display_text": "('23.1월) ISO 9001, ISO14001 인증",
+      "tag": "인증",
+      "url": "",
+      "evidence": false,
+      "source_kind": "source_excel_timeline"
     },
     {
       "company": "쏠레케미칼주식회사",
@@ -2894,996 +3928,6 @@
       "url": "https://www.jobkorea.co.kr/company/45736932",
       "evidence": true,
       "source_kind": "approved"
-    },
-    {
-      "company": "주식회사 엘포톤",
-      "date": "",
-      "year": "",
-      "text": "(’244월) 경기 화성 향남에 UVC LED 생산라인 구축",
-      "display_text": "(’244월) 경기 화성 향남에 UVC LED 생산라인 구축",
-      "tag": "기타",
-      "url": "https://www.elphoton.com/sub/profile.php",
-      "evidence": true,
-      "source_kind": "source_excel"
-    },
-    {
-      "company": "주식회사 이유씨엔씨",
-      "date": "2026-08",
-      "year": "2026",
-      "text": "서울시 차열도료 공급",
-      "display_text": "('26.8월) 서울시 차열도료 공급",
-      "tag": "판로개척",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 퍼스트랩",
-      "date": "2026-08",
-      "year": "2026",
-      "text": "SK 임팩트부스터 육성기업 선정",
-      "display_text": "('26.8월) SK 임팩트부스터 육성기업 선정",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "플렉셀스페이스 주식회사",
-      "date": "2026-07",
-      "year": "2026",
-      "text": "Series A 250억 투자",
-      "display_text": "('26.7월) Series A 250억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 퍼스트랩",
-      "date": "2026-07",
-      "year": "2026",
-      "text": "JETRO 일본 직접투자 촉진 사업 보조금 지원대상 선정",
-      "display_text": "('26.7월) JETRO 일본 직접투자 촉진 사업 보조금 지원대상 선정",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 스타스테크",
-      "date": "2026-06",
-      "year": "2026",
-      "text": "서울베이스와 페넬라겔 프렌 배치 바이 시노 서울베이스 코스메틱 출시",
-      "display_text": "('26.6월) 서울베이스와 페넬라겔 프렌 배치 바이 시노 서울베이스 코스메틱 출시",
-      "tag": "판로개척",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel"
-    },
-    {
-      "company": "주식회사 워터트리네즈",
-      "date": "2026-06",
-      "year": "2026",
-      "text": "한국수자원공사 협력기관 선정",
-      "display_text": "('26.6월) 한국수자원공사 협력기관 선정",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "에코넥트 주식회사",
-      "date": "2026-05",
-      "year": "2026",
-      "text": "포어시스 유통 플랫폼 MOU",
-      "display_text": "('26.5월) 포어시스 유통 플랫폼 MOU",
-      "tag": "MOU",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 워터베이션",
-      "date": "2026-05",
-      "year": "2026",
-      "text": "미국 펀딩 통한 약 7억원 규모 펀딩",
-      "display_text": "('26.5월) 미국 펀딩 통한 약 7억원 규모 펀딩",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사포어시스",
-      "date": "2026-05",
-      "year": "2026",
-      "text": "이탈리아 재료 기업에 제품 수출",
-      "display_text": "('26.5월) 이탈리아 재료 기업에 제품 수출",
-      "tag": "수출",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 스타스테크",
-      "date": "2026-04",
-      "year": "2026",
-      "text": "한국수산자원공단 동해본부 MOU 체결",
-      "display_text": "('26.4월) 한국수산자원공단 동해본부 MOU 체결",
-      "tag": "MOU",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel"
-    },
-    {
-      "company": "주식회사 스타스테크",
-      "date": "2026-03",
-      "year": "2026",
-      "text": "코스메틱 브랜드 라보페 제품 출시",
-      "display_text": "('26.3월) 코스메틱 브랜드 라보페 제품 출시",
-      "tag": "판로개척",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 피엠에너지솔루션",
-      "date": "2026-02",
-      "year": "2026",
-      "text": "디밀리언과 폐배터리 해체 기술 MOU",
-      "display_text": "('26.2월) 디밀리언과 폐배터리 해체 기술 MOU",
-      "tag": "MOU",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 그래비스",
-      "date": "2026-02",
-      "year": "2026",
-      "text": "미국 법인 설립",
-      "display_text": "('26.2월) 미국 법인 설립",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 이유씨엔씨",
-      "date": "2026-01",
-      "year": "2026",
-      "text": "인천조달청 우수조달물품 지정",
-      "display_text": "('26.1월) 인천조달청 우수조달물품 지정",
-      "tag": "판로개척",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사포어시스",
-      "date": "2025-12",
-      "year": "2025",
-      "text": "생산 기술 ISCC PULS(국제 지속가능성 및 탄소 인증) 인증",
-      "display_text": "('25.12월) 생산 기술 ISCC PULS(국제 지속가능성 및 탄소 인증) 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 코솔러스",
-      "date": "2025-12",
-      "year": "2025",
-      "text": "Series A 투자",
-      "display_text": "('25.12월) Series A 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "에코리뉴 주식회사",
-      "date": "2025-12",
-      "year": "2025",
-      "text": "Pre-A 20억 투자",
-      "display_text": "(25.12월) Pre-A 20억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "에코리뉴 주식회사",
-      "date": "2025-12",
-      "year": "2025",
-      "text": "ISO 45001 인증",
-      "display_text": "('25.12월) ISO 45001 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 워터트리네즈",
-      "date": "2025-11",
-      "year": "2025",
-      "text": "Series A 40억 투자",
-      "display_text": "('25.11월) Series A 40억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 퍼스트랩",
-      "date": "2025-11",
-      "year": "2025",
-      "text": "Pre-A 31억 투자",
-      "display_text": "('25.11월) Pre-A 31억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 에이코트",
-      "date": "2025-11",
-      "year": "2025",
-      "text": "한국기술신용평가 우수등급 TI-3등급 확보",
-      "display_text": "('25.11월) 한국기술신용평가 우수등급 TI-3등급 확보",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 피엠에너지솔루션",
-      "date": "2025-11",
-      "year": "2025",
-      "text": "ISO 인증",
-      "display_text": "('25.11월) ISO 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 리젠티앤아이",
-      "date": "2025-11",
-      "year": "2025",
-      "text": "베트남 GREEN BM사와 MOU",
-      "display_text": "('25.11월) 베트남 GREEN BM사와 MOU",
-      "tag": "MOU",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "플렉셀스페이스 주식회사",
-      "date": "2025-10",
-      "year": "2025",
-      "text": "이탈리아 위성 기업 엔피씨 스페이스마인드 MOU 체결",
-      "display_text": "('25.10월) 이탈리아 위성 기업 엔피씨 스페이스마인드 MOU 체결",
-      "tag": "MOU",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 트윈위즈",
-      "date": "2025-09",
-      "year": "2025",
-      "text": "이노비즈 인증",
-      "display_text": "('25.9월) 이노비즈 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)에이브람스",
-      "date": "2025-08",
-      "year": "2025",
-      "text": "Seed 투자",
-      "display_text": "('25.8월) Seed 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)피엠아이바이오텍",
-      "date": "2025-07",
-      "year": "2025",
-      "text": "굴패각 기반 식품용 칼슘 출시",
-      "display_text": "('25.7월) 굴패각 기반 식품용 칼슘 출시",
-      "tag": "판로개척",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 트윈위즈",
-      "date": "2025-05",
-      "year": "2025",
-      "text": "독일 호헨슈타인 향균 인증 취득",
-      "display_text": "('25.5월) 독일 호헨슈타인 향균 인증 취득",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 이유씨엔씨",
-      "date": "2025-05",
-      "year": "2025",
-      "text": "인천중소기업인대회 중소벤처기업부장관상 수상",
-      "display_text": "('25.5월) 인천중소기업인대회 중소벤처기업부장관상 수상",
-      "tag": "수상",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)피엠아이바이오텍",
-      "date": "2025-05",
-      "year": "2025",
-      "text": "미국 유통기업에 5년간 제품 공급 계약 체결",
-      "display_text": "('25.5월) 미국 유통기업에 5년간 제품 공급 계약 체결",
-      "tag": "판로개척",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "땡스카본 주식회사",
-      "date": "2025-05",
-      "year": "2025",
-      "text": "베트남 PAEC와 공공 민간 파트너십 계약",
-      "display_text": "('25.5월) 베트남 PAEC와 공공 민간 파트너십 계약",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 그래비스",
-      "date": "2025-05",
-      "year": "2025",
-      "text": "Pre-A 투자",
-      "display_text": "('25.5월) Pre-A 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 바이오룸",
-      "date": "2025-04",
-      "year": "2025",
-      "text": "무림P&P OI 선정",
-      "display_text": "('25.4월) 무림P&P OI 선정",
-      "tag": "판로개척",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 그린다",
-      "date": "2025-04",
-      "year": "2025",
-      "text": "Pre-A 투자",
-      "display_text": "('25.4월) Pre-A 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "플렉셀스페이스 주식회사",
-      "date": "2025-03",
-      "year": "2025",
-      "text": "Pre-A 50억 투자",
-      "display_text": "('25.3월) Pre-A 50억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)뉴라이즌",
-      "date": "2025-03",
-      "year": "2025",
-      "text": "~'26.5월) Pre-IPO 누적 215억 투자",
-      "display_text": "('25.3월~'26.5월) Pre-IPO 누적 215억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)뉴라이즌",
-      "date": "2025-02",
-      "year": "2025",
-      "text": "투자용기술평가 TI-1등급 획득",
-      "display_text": "('25.2월) 투자용기술평가 TI-1등급 획득",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "로드원",
-      "date": "2024-12",
-      "year": "2024",
-      "text": "강원랜드 넥스트유니콘 청년기업 선발",
-      "display_text": "(24.12월) 강원랜드 넥스트유니콘 청년기업 선발",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel"
-    },
-    {
-      "company": "(주)에너리치",
-      "date": "2024-12",
-      "year": "2024",
-      "text": "북유럽 국가 Latvia 제품 수출",
-      "display_text": "('24.12월) 북유럽 국가 Latvia 제품 수출",
-      "tag": "수출",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 피엠에너지솔루션",
-      "date": "2024-12",
-      "year": "2024",
-      "text": "현대차 충전기 양산",
-      "display_text": "('24.12월) 현대차 충전기 양산",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 바이오룸",
-      "date": "2024-12",
-      "year": "2024",
-      "text": "제 18회 대한민국 우수특허 바이오 부문 선정 대상",
-      "display_text": "('24.12월) 제 18회 대한민국 우수특허 바이오 부문 선정 대상",
-      "tag": "수상",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "에코리뉴 주식회사",
-      "date": "2024-12",
-      "year": "2024",
-      "text": "ISO 9001, 14001 인증",
-      "display_text": "('24.12월) ISO 9001, 14001 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)뉴라이즌",
-      "date": "2024-11",
-      "year": "2024",
-      "text": "인도 차량용 에어필터 공급 MOU 체결",
-      "display_text": "('24.11월) 인도 차량용 에어필터 공급 MOU 체결",
-      "tag": "MOU",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "핵사에너지 주식회사",
-      "date": "2024-11",
-      "year": "2024",
-      "text": "Seed 1억 투자",
-      "display_text": "('24.11월) Seed 1억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "플렉셀스페이스 주식회사",
-      "date": "2024-10",
-      "year": "2024",
-      "text": "Seed 6억 투자",
-      "display_text": "('24.10월) Seed 6억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 아미스트",
-      "date": "2024-10",
-      "year": "2024",
-      "text": "KOTRA수출 초보 기업 등록",
-      "display_text": "('24.10월) KOTRA수출 초보 기업 등록",
-      "tag": "수출",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 워터트리네즈",
-      "date": "2024-10",
-      "year": "2024",
-      "text": "Seed 16억 투자",
-      "display_text": "('24.10월) Seed 16억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 이유씨엔씨",
-      "date": "2024-10",
-      "year": "2024",
-      "text": "녹색기술제품 확인서 취득",
-      "display_text": "('24.10월) 녹색기술제품 확인서 취득",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 피엠에너지솔루션",
-      "date": "2024-10",
-      "year": "2024",
-      "text": "스피어아워와 베트남 이차전지 사업진출 MOU",
-      "display_text": "(24.10월) 스피어아워와 베트남 이차전지 사업진출 MOU",
-      "tag": "MOU",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "휴마스터",
-      "date": "2024-09",
-      "year": "2024",
-      "text": "NET 신기술 인증",
-      "display_text": "('24.9월) NET 신기술 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)에이브람스",
-      "date": "2024-09",
-      "year": "2024",
-      "text": "ISO 9001, 14001, 45001 인증",
-      "display_text": "('24.9월) ISO 9001, 14001, 45001 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 파일러니어",
-      "date": "2024-09",
-      "year": "2024",
-      "text": "수리엔과 전기차 충전소 유지보수 MOU",
-      "display_text": "('24.9월) 수리엔과 전기차 충전소 유지보수 MOU",
-      "tag": "MOU",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 아미스트",
-      "date": "2024-08",
-      "year": "2024",
-      "text": "Seed 투자 유치",
-      "display_text": "('24.8월) Seed 투자 유치",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 아미스트",
-      "date": "2024-07",
-      "year": "2024",
-      "text": "POSCO IMP 선정",
-      "display_text": "('24.7월) POSCO IMP 선정",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 바이오룸",
-      "date": "2024-07",
-      "year": "2024",
-      "text": "Seed 2억 투자",
-      "display_text": "('24.7월) Seed 2억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "플렉셀스페이스 주식회사",
-      "date": "2024-06",
-      "year": "2024",
-      "text": "미국 위성 제조기업 테란 오비탈 MOU 체결",
-      "display_text": "('24.6월) 미국 위성 제조기업 테란 오비탈 MOU 체결",
-      "tag": "MOU",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 리하베스트",
-      "date": "2024-06",
-      "year": "2024",
-      "text": "B-crop 인증 획득",
-      "display_text": "('24.6월) B-crop 인증 획득",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)피엠아이바이오텍",
-      "date": "2024-06",
-      "year": "2024",
-      "text": "해양수산부 장관상 수상",
-      "display_text": "('24.6월) 해양수산부 장관상 수상",
-      "tag": "수상",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 스타스테크",
-      "date": "2024-05",
-      "year": "2024",
-      "text": "Series C 150억 투자",
-      "display_text": "('24.5월) Series C 150억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)에이브람스",
-      "date": "2024-05",
-      "year": "2024",
-      "text": "대기 환경전문공사업 등록증 취득",
-      "display_text": "('24.5월) 대기 환경전문공사업 등록증 취득",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "땡스카본 주식회사",
-      "date": "2024-05",
-      "year": "2024",
-      "text": "Seed 투자",
-      "display_text": "('24.5월) Seed 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 그래비스",
-      "date": "2024-05",
-      "year": "2024",
-      "text": "GraBeads NCB 출시",
-      "display_text": "('24.5월) GraBeads NCB 출시",
-      "tag": "판로개척",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 블루랩스",
-      "date": "2024-04",
-      "year": "2024",
-      "text": "글로벌 엑셀러레이터 테크스타즈 프로그램 선정",
-      "display_text": "('24.4월) 글로벌 엑셀러레이터 테크스타즈 프로그램 선정",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel"
-    },
-    {
-      "company": "주식회사 트윈위즈",
-      "date": "2024-01",
-      "year": "2024",
-      "text": "중소기업 살생물제품 승인 지원사업 선정",
-      "display_text": "('24.1월) 중소기업 살생물제품 승인 지원사업 선정",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 타이가글로벌",
-      "date": "2024-01",
-      "year": "2024",
-      "text": "CES 2024 혁신상 수상",
-      "display_text": "('24.1월) CES 2024 혁신상 수상",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 앤서레이",
-      "date": "2024",
-      "year": "2024",
-      "text": "이노비즈 인증",
-      "display_text": "('24.월) 이노비즈 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "카본밸류",
-      "date": "2023-12",
-      "year": "2023",
-      "text": "Pre-A 50억 투자",
-      "display_text": "('23.12월) Pre-A 50억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "오후두시랩 주식회사",
-      "date": "2023-12",
-      "year": "2023",
-      "text": "B-Corp 인증",
-      "display_text": "('23.12월) B-Corp 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 그린다",
-      "date": "2023-12",
-      "year": "2023",
-      "text": "그린다 일본 법인 설립",
-      "display_text": "('23.12월) 그린다 일본 법인 설립",
-      "tag": "기타",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "핵사에너지 주식회사",
-      "date": "2023-11",
-      "year": "2023",
-      "text": "융합연구 아이디어 공모전 과기부 장관상 수상",
-      "display_text": "('23.11월) 융합연구 아이디어 공모전 과기부 장관상 수상",
-      "tag": "수상",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 에이코트",
-      "date": "2023-11",
-      "year": "2023",
-      "text": "Pre-A 11억 투자",
-      "display_text": "('23.11월) Pre-A 11억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 블루랩스",
-      "date": "2023-10",
-      "year": "2023",
-      "text": "ISO 9001, 14001 인증",
-      "display_text": "('23.10월) ISO 9001, 14001 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 블루랩스",
-      "date": "2023-10",
-      "year": "2023",
-      "text": "Seed 3억 투자",
-      "display_text": "('23.10월) Seed 3억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)뉴라이즌",
-      "date": "2023-09",
-      "year": "2023",
-      "text": "아프리카 10개국 수출 계약 체결",
-      "display_text": "('23.9월) 아프리카 10개국 수출 계약 체결",
-      "tag": "수출",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 워터베이션",
-      "date": "2023-09",
-      "year": "2023",
-      "text": "~11월) Seed 누적 3억 투자",
-      "display_text": "('23.9월~11월) Seed 누적 3억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "알머티리얼즈 주식회사",
-      "date": "2023-09",
-      "year": "2023",
-      "text": "Seed 투자",
-      "display_text": "('23.9월) Seed 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 퍼스트랩",
-      "date": "2023-08",
-      "year": "2023",
-      "text": "Seed 2억 투자",
-      "display_text": "('23.8월) Seed 2억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 리하베스트",
-      "date": "2023-07",
-      "year": "2023",
-      "text": "녹색기술 기업 인증",
-      "display_text": "('23.7월) 녹색기술 기업 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "에코넥트 주식회사",
-      "date": "2023-07",
-      "year": "2023",
-      "text": "Seed 투자",
-      "display_text": "('23.7월) Seed 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사포어시스",
-      "date": "2023-06",
-      "year": "2023",
-      "text": "Series A 20억 투자",
-      "display_text": "('23.6월) Series A 20억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 그린다",
-      "date": "2023-06",
-      "year": "2023",
-      "text": "ISO 9001, 14001 인증",
-      "display_text": "('23.6월) ISO 9001, 14001 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "오후두시랩 주식회사",
-      "date": "2023-05",
-      "year": "2023",
-      "text": "Seed 투자 유치",
-      "display_text": "('23.5월) Seed 투자 유치",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 리하베스트",
-      "date": "2023-04",
-      "year": "2023",
-      "text": "Series A 누적 80억 투자",
-      "display_text": "('23.4월) Series A 누적 80억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "(주)피엠아이바이오텍",
-      "date": "2023-03",
-      "year": "2023",
-      "text": "녹색기술인증",
-      "display_text": "('23.3월) 녹색기술인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 리하베스트",
-      "date": "2023-02",
-      "year": "2023",
-      "text": "국가식품산업클러스터 농림축산식품부 장관 표창장",
-      "display_text": "('23.2월) 국가식품산업클러스터 농림축산식품부 장관 표창장",
-      "tag": "수상",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "로드원",
-      "date": "2023-02",
-      "year": "2023",
-      "text": "벤처나라 입점",
-      "display_text": "('23.2월) 벤처나라 입점",
-      "tag": "판로개척",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 에이코트",
-      "date": "2023-02",
-      "year": "2023",
-      "text": "Seed 1억 투자",
-      "display_text": "('23.2월) Seed 1억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 트윈위즈",
-      "date": "2023-01",
-      "year": "2023",
-      "text": "Pre-A 20억 투자",
-      "display_text": "('23.1월) Pre-A 20억 투자",
-      "tag": "투자",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
-    },
-    {
-      "company": "주식회사 트윈위즈",
-      "date": "2023-01",
-      "year": "2023",
-      "text": "ISO 9001, ISO14001 인증",
-      "display_text": "('23.1월) ISO 9001, ISO14001 인증",
-      "tag": "인증",
-      "url": "",
-      "evidence": false,
-      "source_kind": "source_excel_timeline"
     },
     {
       "company": "주식회사 퍼스트랩",
@@ -4302,6 +4346,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 엘포톤",
+      "date": "",
+      "year": "",
+      "text": "(’244월) 경기 화성 향남에 UVC LED 생산라인 구축",
+      "display_text": "(’244월) 경기 화성 향남에 UVC LED 생산라인 구축",
+      "tag": "기타",
+      "url": "https://www.elphoton.com/sub/profile.php",
+      "evidence": true,
+      "source_kind": "source_excel"
     }
   ]
 }
