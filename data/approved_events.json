@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T14:14:00+09:00",
+  "updated_at": "2026-10-29T08:39:52+09:00",
   "events": [
+    {
+      "company": "오후두시랩 주식회사",
+      "date": "2026-10-28",
+      "year": "2026",
+      "text": "신용보증기금 '퍼스트펭귄' 지원기업 선정, AI 탄소데이터 사업 고도화를 위한 20억원 규모 신용보증 지원 대상(지분투자 아님)",
+      "tag": "기술개발",
+      "url": "https://www.venturesquare.net/1123776/",
+      "display_text": "(’26.10월) 신용보증기금 '퍼스트펭귄' 지원기업 선정, AI 탄소데이터 사업 고도화를 위한 20억원 규모 신용보증 지원 대상(지분투자 아님)",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
     {
       "company": "땡스카본 주식회사",
       "date": "2026-10-23",
@@ -190,6 +201,17 @@
       "source_kind": "approved"
     },
     {
+      "company": "(주)뉴라이즌",
+      "date": "2026-09-09",
+      "year": "2026",
+      "text": "국산화한 반도체 클린룸용 고성능 필터 첫 출하, 국내 반도체 제조시설 및 글로벌 반도체 장비기업 공급 개시",
+      "tag": "판로개척",
+      "url": "https://holdings.pusan.ac.kr/sub/?hd=hd0003&mcode=0404030000&mode=2&no=485&page=1",
+      "display_text": "(’26.09월) 국산화한 반도체 클린룸용 고성능 필터 첫 출하, 국내 반도체 제조시설 및 글로벌 반도체 장비기업 공급 개시",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
+    {
       "company": "주식회사 스타스테크",
       "date": "2026-09",
       "year": "2026",
@@ -331,6 +353,17 @@
       "url": "https://www.bcnhexa.com/About-Us",
       "evidence": true,
       "source_kind": "approved"
+    },
+    {
+      "company": "(주)뉴라이즌",
+      "date": "2026-07-14",
+      "year": "2026",
+      "text": "정전·나노섬유 하이브리드 다층 필터 최적화 연구 국제학술지 Polymers 게재(DOI:10.3390/polym18141725)",
+      "tag": "기술개발",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42514776/",
+      "display_text": "(’26.07월) 정전·나노섬유 하이브리드 다층 필터 최적화 연구 국제학술지 Polymers 게재(DOI:10.3390/polym18141725)",
+      "evidence": true,
+      "source_kind": "auto_verified"
     },
     {
       "company": "(주)뉴라이즌",
@@ -826,6 +859,17 @@
       "url": "https://www.bcnhexa.com/About-Us",
       "evidence": true,
       "source_kind": "approved"
+    },
+    {
+      "company": "(주)뉴라이즌",
+      "date": "2026-03-18",
+      "year": "2026",
+      "text": "호전실업과 차세대 고기능성 원단 공동개발 완료, FITI 시험연구원에서 기존 자체 원단 대비 통기성 약 8배 성능 확인",
+      "tag": "기술개발",
+      "url": "https://www.newspim.com/news/view/20260318000487",
+      "display_text": "(’26.03월) 호전실업과 차세대 고기능성 원단 공동개발 완료, FITI 시험연구원에서 기존 자체 원단 대비 통기성 약 8배 성능 확인",
+      "evidence": true,
+      "source_kind": "auto_verified"
     },
     {
       "company": "주식회사 스타스테크",
