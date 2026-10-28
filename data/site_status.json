@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "automation_enabled": true,
+  "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
+  "last_checked_at": null,
+  "companies_checked": 0,
+  "coverage_complete": false,
+  "checked_sources": [],
+  "added_event_count": 0,
+  "total_event_count": 412,
+  "last_update_at": "2026-10-28T14:14:00+09:00",
+  "status": "pending_first_run",
+  "notes": "첫 자동 점검 예정. 기존 412개 실적은 유지됨."
+}
