@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T16:29:00+09:00",
+  "updated_at": "2026-10-28T14:14:00+09:00",
   "events": [
+    {
+      "company": "땡스카본 주식회사",
+      "date": "2026-10-23",
+      "year": "2026",
+      "text": "캄보디아 저탄소 벼농사·AI 위성 MRV 사업 1호 프로젝트파이낸싱 약 179억원 규모 확정 발표",
+      "display_text": "(’26.10월) 캄보디아 저탄소 벼농사·AI 위성 MRV 사업 1호 프로젝트파이낸싱 약 179억원 규모 확정 발표",
+      "tag": "투자",
+      "url": "https://byline.network/2026/10/83498204234890/",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
     {
       "company": "오후두시랩 주식회사",
       "date": "2026-10-23",
@@ -14,6 +25,17 @@
       "source_kind": "approved_vol02"
     },
     {
+      "company": "주식회사 그래비스",
+      "date": "2026-10-22",
+      "year": "2026",
+      "text": "싱가포르 글로벌 스타트업 경진대회 'SLINGSHOT 2026' 상위 50개사 선정",
+      "display_text": "(’26.10월) 싱가포르 글로벌 스타트업 경진대회 'SLINGSHOT 2026' 상위 50개사 선정",
+      "tag": "수상",
+      "url": "https://www.mt.co.kr/future/2026/10/22/2026102209124084841",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
+    {
       "company": "카본밸류",
       "date": "2026-10-22",
       "year": "2026",
@@ -23,6 +45,39 @@
       "url": "https://www.venturesquare.net/1121795",
       "evidence": true,
       "source_kind": "approved_vol02"
+    },
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2026-10-19",
+      "year": "2026",
+      "text": "2026 경기 기후테크 100 써밋 투자부문 '그린 유니콘상' 수상",
+      "display_text": "(’26.10월) 2026 경기 기후테크 100 써밋 투자부문 '그린 유니콘상' 수상",
+      "tag": "수상",
+      "url": "https://kr.linkedin.com/posts/flexellspace_flexellspace-flexell-%ED%94%8C%EB%A0%89%EC%85%80%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-activity-7517804993618399232-DVxf",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
+    {
+      "company": "주식회사 그린다",
+      "date": "2026-10-15",
+      "year": "2026",
+      "text": "중기부 스케일업 팁스 특화형 선정, 지속가능항공유 원료 대량생산 R&D에 3년간 최대 30억원 지원 대상",
+      "display_text": "(’26.10월) 중기부 스케일업 팁스 특화형 선정, 지속가능항공유 원료 대량생산 R&D에 3년간 최대 30억원 지원 대상",
+      "tag": "기술개발",
+      "url": "https://www.venturesquare.net/1120043",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
+    {
+      "company": "쏠레케미칼주식회사",
+      "date": "2026-10-15",
+      "year": "2026",
+      "text": "PFAS 미사용 1액형 세라믹 코팅제 '솔라믹 원팩' 개발 및 기존 생산설비 적용성 검증",
+      "display_text": "(’26.10월) PFAS 미사용 1액형 세라믹 코팅제 '솔라믹 원팩' 개발 및 기존 생산설비 적용성 검증",
+      "tag": "기술개발",
+      "url": "https://www.etnews.com/20261013000171",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
     },
     {
       "company": "주식회사 파일러니어",
@@ -78,6 +133,39 @@
       "url": "https://www.news1.kr/local/busan-gyeongnam/6321092",
       "evidence": true,
       "source_kind": "approved_vol02_backfill"
+    },
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2026-09-30",
+      "year": "2026",
+      "text": "해외 고객사와 약 400만 달러 규모 우주 태양전지 공급계약 확보 사실 공개",
+      "display_text": "(’26.09월) 해외 고객사와 약 400만 달러 규모 우주 태양전지 공급계약 확보 사실 공개",
+      "tag": "수출",
+      "url": "https://www.etnews.com/20260930000121",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
+    {
+      "company": "주식회사 바이오룸",
+      "date": "2026-09-30",
+      "year": "2026",
+      "text": "전북형 그린바이오 오픈이노베이션에서 대·중견 수요기업 7개사와 사업협력 미팅 참여",
+      "display_text": "(’26.09월) 전북형 그린바이오 오픈이노베이션에서 대·중견 수요기업 7개사와 사업협력 미팅 참여",
+      "tag": "판로개척",
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=472846",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
+    {
+      "company": "에코넥트 주식회사",
+      "date": "2026-09-23",
+      "year": "2026",
+      "text": "잇그린과 다회용기 폐기물의 재생 폴리머 개발·수요처 발굴 업무협약 체결",
+      "display_text": "(’26.09월) 잇그린과 다회용기 폐기물의 재생 폴리머 개발·수요처 발굴 업무협약 체결",
+      "tag": "MOU",
+      "url": "https://startuprecipe.co.kr/archives/5835767",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
     },
     {
       "company": "주식회사 트윈위즈",
@@ -243,6 +331,17 @@
       "url": "https://www.bcnhexa.com/About-Us",
       "evidence": true,
       "source_kind": "approved"
+    },
+    {
+      "company": "(주)뉴라이즌",
+      "date": "2026-07-08",
+      "year": "2026",
+      "text": "나노코리아 2026 나노산업기술상 산업 부문 국무총리상 수상",
+      "display_text": "(’26.07월) 나노코리아 2026 나노산업기술상 산업 부문 국무총리상 수상",
+      "tag": "수상",
+      "url": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172003/view",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
     },
     {
       "company": "플렉셀스페이스 주식회사",
@@ -487,6 +586,17 @@
       "source_kind": "source_excel_timeline"
     },
     {
+      "company": "에코리뉴 주식회사",
+      "date": "2026-05-22",
+      "year": "2026",
+      "text": "대명그룹 생산현장에 폐윤활유 정제장비 '리뉴플로우 오일' 3대 납품·가동, 재생유 약 10톤 생산·재공급 실적 공개",
+      "display_text": "(’26.05월) 대명그룹 생산현장에 폐윤활유 정제장비 '리뉴플로우 오일' 3대 납품·가동, 재생유 약 10톤 생산·재공급 실적 공개",
+      "tag": "판로개척",
+      "url": "https://www.ecorenew.co.kr/service/notice.php?code=notice&idx=168&page=1&ptype=view",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
+    {
       "company": "(주)뉴라이즌",
       "date": "2026-05",
       "year": "2026",
@@ -606,6 +716,28 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 퍼스트랩",
+      "date": "2026-04-16",
+      "year": "2026",
+      "text": "2026 에디슨 어워즈 물·식량·농업 부문 금상 수상 ('CAVITOX' 고도산화 수처리 솔루션)",
+      "display_text": "(’26.04월) 2026 에디슨 어워즈 물·식량·농업 부문 금상 수상 ('CAVITOX' 고도산화 수처리 솔루션)",
+      "tag": "수상",
+      "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=S017&number=70150",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
+    {
+      "company": "주식회사 피엠에너지솔루션",
+      "date": "2026-04-16",
+      "year": "2026",
+      "text": "2026 에디슨 어워즈 에너지·기후 회복성 부문 은상 수상 (스마트 리튬 배터리 '테라비츠')",
+      "display_text": "(’26.04월) 2026 에디슨 어워즈 에너지·기후 회복성 부문 은상 수상 (스마트 리튬 배터리 '테라비츠')",
+      "tag": "수상",
+      "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=S017&number=70150",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
     },
     {
       "company": "플렉셀스페이스 주식회사",
@@ -749,6 +881,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 스타스테크",
+      "date": "2026-02-19",
+      "year": "2026",
+      "text": "미국 뉴저지주 교통부 대상 친환경 제설제 첨가제 유상 제작·성능평가 착수, 캐나다 도르발시 실증시험 확정",
+      "display_text": "(’26.02월) 미국 뉴저지주 교통부 대상 친환경 제설제 첨가제 유상 제작·성능평가 착수, 캐나다 도르발시 실증시험 확정",
+      "tag": "판로개척",
+      "url": "https://v.daum.net/v/20260219180656835",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
     },
     {
       "company": "알머티리얼즈 주식회사",
@@ -925,6 +1068,39 @@
       "url": "https://www.answeray.com/document/answeray",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사포어시스",
+      "date": "2025-12-10",
+      "year": "2025",
+      "text": "기후에너지환경부 주관 '녹색산업 활성화 유공 포상' 장관 표창 수상",
+      "display_text": "(’25.12월) 기후에너지환경부 주관 '녹색산업 활성화 유공 포상' 장관 표창 수상",
+      "tag": "수상",
+      "url": "https://www.etnews.com/20251212000195",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
+    {
+      "company": "주식회사 코솔러스",
+      "date": "2025-12-04",
+      "year": "2025",
+      "text": "기후에너지환경부 장관 표창 수상 (폐배터리 소재·자원순환 기술 분야)",
+      "display_text": "(’25.12월) 기후에너지환경부 장관 표창 수상 (폐배터리 소재·자원순환 기술 분야)",
+      "tag": "수상",
+      "url": "https://cosolus.imweb.me/733253277",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
+    },
+    {
+      "company": "주식회사 코솔러스",
+      "date": "2025-12",
+      "year": "2025",
+      "text": "사용후 배터리 관련 기술·사업화 바탕으로 20억원 규모 이차전지 분야 투자계약 체결",
+      "display_text": "(’25.12월) 사용후 배터리 관련 기술·사업화 바탕으로 20억원 규모 이차전지 분야 투자계약 체결",
+      "tag": "투자",
+      "url": "https://gsyouth.or.kr/main/cmm/down.do?fid=cjCyiKKdzu5FSGObQMWaGA%3D%3D&mid=54",
+      "evidence": true,
+      "source_kind": "research_web_2026-10-28"
     },
     {
       "company": "주식회사 리하베스트",
