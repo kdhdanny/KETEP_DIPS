@@ -2,13 +2,19 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": null,
-  "companies_checked": 0,
+  "last_checked_at": "2026-10-29T08:40:25+09:00",
+  "companies_checked": 41,
   "coverage_complete": false,
-  "checked_sources": [],
-  "added_event_count": 0,
-  "total_event_count": 412,
-  "last_update_at": "2026-10-28T14:14:00+09:00",
-  "status": "pending_first_run",
-  "notes": "첫 자동 점검 예정. 기존 412개 실적은 유지됨."
+  "checked_sources": [
+    "기업명별 국내외 뉴스 웹 검색: 41개사 각각 검색, 최근 14일 우선 및 과거 누락 탐색",
+    "The VC 공개 기업정보·최근 뉴스 일부 확인",
+    "언론 원문 교차확인: 연합뉴스·머니투데이·벤처스퀘어·전자신문·뉴스1·뉴스핌 등",
+    "공식기관·기업 자료 일부 확인: 부산대학교기술지주·경기도 보도자료·기업 공식 공지",
+    "학술 원문 메타데이터: PubMed/Polymers 논문"
+  ],
+  "added_event_count": 4,
+  "total_event_count": 416,
+  "last_update_at": "2026-10-29T08:39:52+09:00",
+  "status": "partial",
+  "notes": "41개사별 명칭 검색을 수행했으나 일부 기업은 검색 결과가 없거나 공식자료 접근이 제한되어 기업별 모든 채널 전수 확인에는 미달. 출처 대조 후 검증된 신규 4건을 게시했고, 분류·확인 보류 후보 3건은 data/review_candidates.json에 별도 보관. 투자유치 진행·M&A·집계 보조금은 확정 기업 투자로 분류하지 않음."
 }
