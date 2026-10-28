@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-29T08:40:14+09:00",
+  "candidates": [
+    {
+      "company": "땡스카본 주식회사",
+      "reported_date": "2026-08-14",
+      "description": "The VC에 30억원 규모 Series A 투자유치 진행 중으로 표시됨",
+      "url": "https://thevc.kr/thankscarbon",
+      "reason": "투자 유치 완료가 확인되지 않아 실적 DB 미게시",
+      "status": "hold"
+    },
+    {
+      "company": "주식회사 엘포톤",
+      "reported_date": "2026-09-03",
+      "description": "파커스가 엘포톤 지분 58.53% 인수 완료(총 50억원 투입)",
+      "url": "https://www.newspim.com/news/view/20260903000498",
+      "reason": "경영권 인수와 기업 직접 투자유치는 다르며 현행 태그에 M&A가 없어 별도 검토",
+      "status": "hold"
+    },
+    {
+      "company": "(주)뉴라이즌",
+      "reported_date": "2026-10-08",
+      "description": "울주군 투자 완료기업 보조금 전달식 참석 기업으로 보도",
+      "url": "https://www.yna.co.kr/amp/view/AKR20261008066000057",
+      "reason": "8개 기업 전체 보조금 합계만 보도되어 개별 기업 수령액을 특정할 수 없음",
+      "status": "hold"
+    }
+  ]
+}
