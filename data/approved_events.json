@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T08:39:52+09:00",
+  "updated_at": "2026-10-30T08:24:05+09:00",
   "events": [
     {
       "company": "오후두시랩 주식회사",
@@ -1873,6 +1873,17 @@
       "source_kind": "source_excel_timeline"
     },
     {
+      "company": "주식회사 엘포톤",
+      "date": "2025-06-22",
+      "year": "2025",
+      "text": "고온·고습(85℃·상대습도 85%) 환경에서 3,000시간 내구성을 확인한 방습형 UVC LED 칩 설계 기술 개발 발표",
+      "display_text": "(’25.6월) 고온·고습(85℃·상대습도 85%) 환경에서 3,000시간 내구성을 확인한 방습형 UVC LED 칩 설계 기술 개발 발표",
+      "tag": "기술개발",
+      "url": "https://www.etnews.com/20250620000215",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
+    {
       "company": "카본밸류",
       "date": "2025-06",
       "year": "2025",
@@ -3367,6 +3378,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 리하베스트",
+      "date": "2024-04-22",
+      "year": "2024",
+      "text": "라피끄 코스메틱과 푸드업사이클링 친환경 원료 활용 화장품 기술개발 업무협약 체결",
+      "display_text": "(’24.4월) 라피끄 코스메틱과 푸드업사이클링 친환경 원료 활용 화장품 기술개발 업무협약 체결",
+      "tag": "MOU",
+      "url": "https://www.venturesquare.net/923839",
+      "evidence": true,
+      "source_kind": "auto_verified"
     },
     {
       "company": "알머티리얼즈 주식회사",
