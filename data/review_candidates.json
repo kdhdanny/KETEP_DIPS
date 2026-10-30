@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T08:40:14+09:00",
+  "updated_at": "2026-10-31T08:19:17+09:00",
   "candidates": [
     {
       "company": "땡스카본 주식회사",
@@ -24,6 +24,14 @@
       "description": "울주군 투자 완료기업 보조금 전달식 참석 기업으로 보도",
       "url": "https://www.yna.co.kr/amp/view/AKR20261008066000057",
       "reason": "8개 기업 전체 보조금 합계만 보도되어 개별 기업 수령액을 특정할 수 없음",
+      "status": "hold"
+    },
+    {
+      "company": "주식회사 그린다",
+      "reported_date": "2026-10-27",
+      "description": "2026년 10월 27일 기사에서 ISCC CORSIA 국제 지속가능성 인증 취득 사실 확인(기존 DB에는 ISCC EU 인증만 등록)",
+      "url": "https://www.venturesquare.net/1123475/",
+      "reason": "실제 ISCC CORSIA 인증 취득일 미확인. 기사 게시일을 인증 취득일로 대체하지 않고 날짜 확인 후 등록 검토",
       "status": "hold"
     }
   ]
