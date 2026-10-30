@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:24:05+09:00",
+  "updated_at": "2026-10-31T08:19:09+09:00",
   "events": [
     {
       "company": "오후두시랩 주식회사",
@@ -34,6 +34,17 @@
       "url": "https://www.etnews.com/20261023000367",
       "evidence": true,
       "source_kind": "approved_vol02"
+    },
+    {
+      "company": "주식회사 그린다",
+      "date": "2026-10-23",
+      "year": "2026",
+      "text": "'2026 재생에너지의 날' 기념식에서 기후에너지환경부 장관표창 수상(튀김부스러기 기반 SAF·바이오연료 원료 자원화 공로)",
+      "display_text": "(’26.10월) '2026 재생에너지의 날' 기념식에서 기후에너지환경부 장관표창 수상(튀김부스러기 기반 SAF·바이오연료 원료 자원화 공로)",
+      "tag": "수상",
+      "url": "https://www.venturesquare.net/1123475/",
+      "evidence": true,
+      "source_kind": "auto_verified"
     },
     {
       "company": "주식회사 그래비스",
