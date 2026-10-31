@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:19:09+09:00",
+  "updated_at": "2026-11-01T08:13:40+09:00",
   "events": [
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2026-10-29",
+      "tag": "판로개척",
+      "text": "싱가포르 SATORO와 우주용 태양전지 궤도상 실증·검증(IOD/IOV) 계약 체결(2027·2028년 실증 임무 예정, 실증 완료 아님)",
+      "url": "https://dbr.donga.com/kfocus/view/article_no/3825",
+      "year": "2026",
+      "display_text": "(’26.10월) 싱가포르 SATORO와 우주용 태양전지 궤도상 실증·검증(IOD/IOV) 계약 체결(2027·2028년 실증 임무 예정, 실증 완료 아님)",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
     {
       "company": "오후두시랩 주식회사",
       "date": "2026-10-28",
@@ -10,6 +21,17 @@
       "tag": "기술개발",
       "url": "https://www.venturesquare.net/1123776/",
       "display_text": "(’26.10월) 신용보증기금 '퍼스트펭귄' 지원기업 선정, AI 탄소데이터 사업 고도화를 위한 20억원 규모 신용보증 지원 대상(지분투자 아님)",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2026-10-27",
+      "tag": "판로개척",
+      "text": "프랑스 파리에 현지 법인 'FLEXELL SPACE FRANCE SAS' 설립, 유럽 우주용 태양전지 고객 대응 거점 확보(양산 공급 협의 진행 중)",
+      "url": "https://www.etnews.com/20261027000106",
+      "year": "2026",
+      "display_text": "(’26.10월) 프랑스 파리에 현지 법인 'FLEXELL SPACE FRANCE SAS' 설립, 유럽 우주용 태양전지 고객 대응 거점 확보(양산 공급 협의 진행 중)",
       "evidence": true,
       "source_kind": "auto_verified"
     },
@@ -155,6 +177,28 @@
       "url": "https://www.news1.kr/local/busan-gyeongnam/6321092",
       "evidence": true,
       "source_kind": "approved_vol02_backfill"
+    },
+    {
+      "company": "주식회사 이유씨엔씨",
+      "date": "2026-09-30",
+      "tag": "인증",
+      "text": "기후에너지환경부·한국환경산업기술원 '2026년 우수환경산업체' 기후·대기 분야 지정(5년간 해외진출·기술사업화 지원 대상)",
+      "url": "https://m.mcee.go.kr/home/web/board/read.do?boardId=1894940&boardMasterId=939&menuId=10598",
+      "year": "2026",
+      "display_text": "(’26.09월) 기후에너지환경부·한국환경산업기술원 '2026년 우수환경산업체' 기후·대기 분야 지정(5년간 해외진출·기술사업화 지원 대상)",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
+    {
+      "company": "주식회사 이유씨엔씨",
+      "date": "2026-09-30",
+      "tag": "수상",
+      "text": "제6회 조달의 날 공공조달 유공 대통령 표창 수상(회사 공식 홈페이지 수상내역 공시)",
+      "url": "https://www.eucnc.co.kr/kr/index.php",
+      "year": "2026",
+      "display_text": "(’26.09월) 제6회 조달의 날 공공조달 유공 대통령 표창 수상(회사 공식 홈페이지 수상내역 공시)",
+      "evidence": true,
+      "source_kind": "auto_verified"
     },
     {
       "company": "플렉셀스페이스 주식회사",
