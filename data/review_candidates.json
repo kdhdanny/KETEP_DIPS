@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:19:17+09:00",
+  "updated_at": "2026-11-01T08:14:03+09:00",
   "candidates": [
     {
       "company": "땡스카본 주식회사",
@@ -32,6 +32,14 @@
       "description": "2026년 10월 27일 기사에서 ISCC CORSIA 국제 지속가능성 인증 취득 사실 확인(기존 DB에는 ISCC EU 인증만 등록)",
       "url": "https://www.venturesquare.net/1123475/",
       "reason": "실제 ISCC CORSIA 인증 취득일 미확인. 기사 게시일을 인증 취득일로 대체하지 않고 날짜 확인 후 등록 검토",
+      "status": "hold"
+    },
+    {
+      "company": "주식회사 이유씨엔씨",
+      "reported_date": "2026-10-26",
+      "description": "조달청 우수조달물품 특수페인트 제3자단가계약(집계사이트 계약금액 21억원 표시)",
+      "url": "https://bidchammo.com/notice/R26BK01778026",
+      "reason": "조달청 원문 계약 조건·금액의 성격을 독립 확인하지 못함. 제3자단가계약의 계약한도는 실제 납품·매출 실적이 아니므로 공개 성과 등록 보류",
       "status": "hold"
     }
   ]
