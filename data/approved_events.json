@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:50:37.315+09:00",
+  "updated_at": "2026-11-03T08:06:11+09:00",
   "events": [
     {
       "company": "플렉셀스페이스 주식회사",
@@ -1222,6 +1222,17 @@
       "url": "https://cosolus.imweb.me/733253277",
       "evidence": true,
       "source_kind": "research_web_2026-10-28"
+    },
+    {
+      "company": "(주)뉴라이즌",
+      "date": "2025-12-04",
+      "year": "2025",
+      "text": "2025 녹색산업 활성화 유공 포상에서 기후에너지환경부 장관표창 수상(고효율 정전·나노 융합 필터의 에너지 절감·탄소 저감 기여)",
+      "display_text": "('25.12월) 2025 녹색산업 활성화 유공 포상 기후에너지환경부 장관표창 수상",
+      "tag": "수상",
+      "url": "https://www.imaeil.com/page/view/2025121016214799039",
+      "evidence": true,
+      "source_kind": "auto_verified"
     },
     {
       "company": "주식회사 코솔러스",
@@ -3279,6 +3290,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 워터베이션",
+      "date": "2024-06-22",
+      "year": "2024",
+      "text": "정윤영 대표, 2024 세계여성발명대회에서 필터 없는 물 분사형 공기청정 기술로 그랑프리 '올해의 여성발명왕' 수상",
+      "display_text": "('24.6월) 정윤영 대표, 2024 세계여성발명대회 그랑프리(올해의 여성발명왕) 수상",
+      "tag": "수상",
+      "url": "https://www.yna.co.kr/view/AKR20240623029800063",
+      "evidence": true,
+      "source_kind": "auto_verified"
     },
     {
       "company": "(주)에이브람스",
