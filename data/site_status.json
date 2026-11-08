@@ -2,17 +2,17 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": "2026-11-08T08:25:30.378+09:00",
-  "companies_checked": 0,
+  "last_checked_at": "2026-11-09T08:37:30.547+09:00",
+  "companies_checked": 7,
   "coverage_complete": false,
   "checked_sources": [
-    "2026-11-08: GitHub main의 companies.json 41개사, approved_events.json 429건, site_status.json 확인",
-    "2026-11-08: 최근 14일 및 전일 대상 3개 복합 뉴스 검색 실시; 반환 결과는 대상 기업과 무관하여 기업별 성과 검증 불가",
-    "2026-11-08: 개별 41개사 원문 및 The VC 교차검증 미수행; 검증 신규 성과 0건"
+    "2026-11-09: GitHub main 기업 41개 목록 및 기존 성과 429건 최신 조회",
+    "2026-11-09: 최근 14일 11개 검색 질의(복합 4, 개별/소그룹 7); 플렉셀스페이스·그린다·스타스테크·워터베이션·이유씨엔씨·땡스카본·오후두시랩 관련 검색 결과 확인",
+    "2026-11-09: 오후두시랩 BIXPO 전시/COP31 참가 계획, 이유씨엔씨 데모데이 참여는 확정 성과로 인정하지 않음; 공식 원문 교차 검증 및 41개사 전수 미완료"
   ],
   "added_event_count": 0,
   "total_event_count": 429,
   "last_update_at": "2026-11-03T08:06:11+09:00",
   "status": "partial",
-  "notes": "검색 결과 관련성 부족으로 41개사 개별 검증 미완료. 신규 검증 성과 없음. approved_events.json 변경 없음. 뉴스레터·이메일 미발송."
+  "notes": "일부 검색 결과 확인했으나 41개사 전수 및 The VC/공식자료 교차검증 미완료. 신규 검증 성과 없음. 성과 DB 미변경, 이메일 미발송."
 }
