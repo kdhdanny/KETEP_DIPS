@@ -2,16 +2,17 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": "2026-11-10T08:19:00+09:00",
-  "companies_checked": 0,
+  "last_checked_at": "2026-11-11T08:17:00.900+09:00",
+  "companies_checked": 3,
   "coverage_complete": false,
   "checked_sources": [
-    "2026-11-10: GitHub main의 companies.json 41개사, approved_events.json 429건, site_status.json 최신 조회",
-    "2026-11-10: 최근 14일 및 전일 성과 관련 복합 검색 3개 수행; 검색 결과가 대상 기업 성과와 무관하여 기업별 검증 0개"
+    "2026-11-11: GitHub main companies.json 41개사, approved_events.json 429건, site_status.json 조회",
+    "2026-11-11: 최근 14일 뉴스 복합 검색 4건; 그린다·오후두시랩·땡스카본 관련 보도와 기존 DB 대조",
+    "벤처스퀘어 기후테크 뉴스(2026-10-15/23/27), 바이라인네트워크(2026-10-23) 검토; 확인된 후보는 기존 DB 등록 사건"
   ],
   "added_event_count": 0,
   "total_event_count": 429,
   "last_update_at": "2026-11-03T08:06:11+09:00",
   "status": "partial",
-  "notes": "검색 품질 제한으로 41개 기업 개별 조사 및 공식자료·The VC 교차 검증 미완료. 신규 검증 성과 없음. 성과 DB 미변경, 이메일 미발송."
+  "notes": "41개사 전수 개별 검증 미완료(3개사 관련 후보 중복 대조). 신규 검증 성과 없음. approved_events.json 미변경. 이메일 미발송."
 }
