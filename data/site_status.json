@@ -2,16 +2,16 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": "2026-11-12T08:05:31.139+09:00",
+  "last_checked_at": "2026-11-13T08:45:27.766+09:00",
   "companies_checked": 0,
   "coverage_complete": false,
   "checked_sources": [
-    "2026-11-12: GitHub main companies.json 41개, approved_events.json 429건, site_status.json 조회",
-    "2026-11-12: 최근 14일 대상 기업명 조합 뉴스 검색 6건 시도; 관련 결과 없음 또는 무관한 검색 결과. 기업별 공식 홈페이지 및 The VC 검증 미완료"
+    "2026-11-13: GitHub main companies.json 41개, approved_events.json 429건, site_status.json 최신 조회",
+    "2026-11-13: 최근 자료 대상 기업명 복합 검색 8건; 벤처스퀘어 기후테크 기사 목록 및 DIPS 공식 기업 페이지 확인; 개별 41개사 공식 홈페이지·The VC 교차 검증 미완료"
   ],
   "added_event_count": 0,
   "total_event_count": 429,
   "last_update_at": "2026-11-03T08:06:11+09:00",
   "status": "partial",
-  "notes": "기업별 개별 교차 검증 0개사. 검색 품질 제한으로 41개사 전수 확인 미완료. 신규 검증 성과 없음. 성과 DB 미변경. 이메일 미발송."
+  "notes": "복합 검색만 수행, 개별 기업 검증 완료 0개사. 최근 관련 검색 결과는 기존 알려진 성과 또는 확정 신규 성과로 검증 불가. 공개 성과 DB 미변경. 이메일·뉴스레터 미발송."
 }
