@@ -10,8 +10,13 @@
     "2026-11-13: 최근 자료 대상 기업명 복합 검색 8건; 벤처스퀘어 기후테크 기사 목록 및 DIPS 공식 기업 페이지 확인; 개별 41개사 공식 홈페이지·The VC 교차 검증 미완료"
   ],
   "added_event_count": 0,
-  "total_event_count": 429,
-  "last_update_at": "2026-11-03T08:06:11+09:00",
+  "total_event_count": 431,
+  "last_update_at": "2026-11-13T09:39:34+09:00",
   "status": "partial",
-  "notes": "복합 검색만 수행, 개별 기업 검증 완료 0개사. 최근 관련 검색 결과는 기존 알려진 성과 또는 확정 신규 성과로 검증 불가. 공개 성과 DB 미변경. 이메일·뉴스레터 미발송."
+  "notes": "2026-11-13 수동 요청에 따라 검증된 2건(GitHub DB)을 추가함. 동아일보 URL 1건은 원문 확인 불가로 공개 미반영. 자동 점검의 companies_checked·coverage_complete는 이전 실행값을 유지함.",
+  "last_manual_update_at": "2026-11-13T09:39:34+09:00",
+  "last_manual_added_event_count": 2,
+  "pending_source_urls": [
+    "https://www.donga.com/news/Economy/article/all/20261028/134926285/1"
+  ]
 }
