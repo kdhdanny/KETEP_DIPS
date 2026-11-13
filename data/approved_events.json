@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:06:11+09:00",
+  "updated_at": "2026-11-13T09:32:00+09:00",
   "events": [
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2026-11-11",
+      "year": "2026",
+      "text": "우주용 탠덤 태양전지 '블루쉘(BLUESHELL)' CES 2027 에너지 전환 및 지속가능성 부문 혁신상 선정",
+      "display_text": "(’26.11월) 우주용 태양전지 '블루쉘' CES 2027 에너지 전환 및 지속가능성 부문 혁신상 선정",
+      "tag": "수상",
+      "url": "https://biz.heraldcorp.com/article/10933318",
+      "evidence": true,
+      "source_kind": "user_link_verified_2026-11-13"
+    },
     {
       "company": "플렉셀스페이스 주식회사",
       "date": "2026-10-29",
