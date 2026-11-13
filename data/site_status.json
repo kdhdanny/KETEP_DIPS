@@ -2,18 +2,18 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": "2026-11-13T08:45:27.766+09:00",
-  "companies_checked": 0,
+  "last_checked_at": "2026-11-14T08:43:35+09:00",
+  "companies_checked": 1,
   "coverage_complete": false,
   "checked_sources": [
-    "2026-11-13: GitHub main companies.json 41개, approved_events.json 429건, site_status.json 최신 조회",
-    "2026-11-13: 최근 자료 대상 기업명 복합 검색 8건; 벤처스퀘어 기후테크 기사 목록 및 DIPS 공식 기업 페이지 확인; 개별 41개사 공식 홈페이지·The VC 교차 검증 미완료"
+    "2026-11-14: GitHub main companies.json 41개, approved_events.json 431건, site_status.json 조회",
+    "2026-11-14: 최근 14일 기업명 복합 뉴스 검색 4건; 플렉셀스페이스 개별 검색 및 공개 기업정보·The VC 연관 검색 결과 확인; 나머지 40개사 개별 교차검증 미완료"
   ],
   "added_event_count": 0,
   "total_event_count": 431,
   "last_update_at": "2026-11-13T09:39:34+09:00",
   "status": "partial",
-  "notes": "2026-11-13 수동 요청에 따라 검증된 2건(GitHub DB)을 추가함. 동아일보 URL 1건은 원문 확인 불가로 공개 미반영. 자동 점검의 companies_checked·coverage_complete는 이전 실행값을 유지함.",
+  "notes": "최근 14일 검색에서 신규 확정 실적을 검증하지 못함. 41개사 전수 조사 미완료. 기존 수동 등록 2건 및 pending_source_urls 유지. 성과 DB 미변경.",
   "last_manual_update_at": "2026-11-13T09:39:34+09:00",
   "last_manual_added_event_count": 2,
   "pending_source_urls": [
