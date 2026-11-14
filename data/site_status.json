@@ -2,18 +2,18 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": "2026-11-14T08:43:35+09:00",
+  "last_checked_at": "2026-11-15T08:46:06+09:00",
   "companies_checked": 1,
   "coverage_complete": false,
   "checked_sources": [
-    "2026-11-14: GitHub main companies.json 41개, approved_events.json 431건, site_status.json 조회",
-    "2026-11-14: 최근 14일 기업명 복합 뉴스 검색 4건; 플렉셀스페이스 개별 검색 및 공개 기업정보·The VC 연관 검색 결과 확인; 나머지 40개사 개별 교차검증 미완료"
+    "2026-11-15: GitHub main companies.json 41개, approved_events.json 431건, site_status.json 최신 조회",
+    "2026-11-15: 최근 14일 기업명 조합 웹 검색 4건; 오후두시랩 BIXPO 2026 전시(11월 4일 보도), COP31 참가 예정(11월 6일 보도) 확인; 신규 확정 성과 검증 불가; 다른 40개사 개별 검증 미완료"
   ],
   "added_event_count": 0,
   "total_event_count": 431,
   "last_update_at": "2026-11-13T09:39:34+09:00",
   "status": "partial",
-  "notes": "최근 14일 검색에서 신규 확정 실적을 검증하지 못함. 41개사 전수 조사 미완료. 기존 수동 등록 2건 및 pending_source_urls 유지. 성과 DB 미변경.",
+  "notes": "복합 검색 결과 다수 무관. 오후두시랩 전시·참가 계획은 신규 확정 사업성과로 등록하지 않음. 41개사 전수 검증 미완료. 성과 DB 및 수동 등록·검토대기 항목 미변경.",
   "last_manual_update_at": "2026-11-13T09:39:34+09:00",
   "last_manual_added_event_count": 2,
   "pending_source_urls": [
