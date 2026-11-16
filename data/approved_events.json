@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T09:32:00+09:00",
+  "updated_at": "2026-11-17T08:16:49.680+09:00",
   "events": [
     {
       "company": "플렉셀스페이스 주식회사",
@@ -4742,6 +4742,28 @@
       "url": "https://www.elphoton.com/sub/profile.php",
       "evidence": true,
       "source_kind": "source_excel"
+    },
+    {
+      "company": "주식회사 그린다",
+      "date": "2026-10-30",
+      "year": "2026",
+      "text": "2026 FAST TRACK 농식품 데모데이 대상 수상",
+      "display_text": "('26.10.30) 2026 FAST TRACK 농식품 데모데이 대상 수상",
+      "tag": "수상",
+      "url": "https://www.news1.kr/industry/sb-founded/6340776",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2026-03-19",
+      "year": "2026",
+      "text": "리투아니아 콩스버그 나노아비오닉스와 수백만 유로 규모 위성 태양전지 모듈 공급 계약 체결",
+      "display_text": "('26.3월) 리투아니아 콩스버그 나노아비오닉스와 수백만 유로 규모 위성 태양전지 모듈 공급 계약 체결",
+      "tag": "수출",
+      "url": "https://biz.heraldcorp.com/article/10695403",
+      "evidence": true,
+      "source_kind": "auto_verified"
     }
   ]
 }
