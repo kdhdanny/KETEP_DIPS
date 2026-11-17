@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T08:16:49.680+09:00",
+  "updated_at": "2026-11-18T08:43:04+09:00",
   "events": [
     {
       "company": "플렉셀스페이스 주식회사",
@@ -4762,6 +4762,39 @@
       "display_text": "('26.3월) 리투아니아 콩스버그 나노아비오닉스와 수백만 유로 규모 위성 태양전지 모듈 공급 계약 체결",
       "tag": "수출",
       "url": "https://biz.heraldcorp.com/article/10695403",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
+    {
+      "company": "주식회사 파일러니어",
+      "date": "2026-10-29",
+      "year": 2026,
+      "text": "2026 광명시 글로컬 데모데이 최우수상 수상",
+      "display_text": "2026 광명시 글로컬 데모데이 최우수상 수상",
+      "tag": "수상",
+      "url": "https://files.newsis.com/view/NISX20261030_0003848033",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
+    {
+      "company": "주식회사 에너리치",
+      "date": "2026-11-04",
+      "year": 2026,
+      "text": "WHE 2026 H2 이노베이션 어워드 수소 생산 부문 최우수상 수상",
+      "display_text": "WHE 2026 H2 이노베이션 어워드 수소 생산 부문 최우수상 수상",
+      "tag": "수상",
+      "url": "https://digitalchosun.dizzo.com/site/data/html_dir/2026/11/05/2026110580060.html",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
+    {
+      "company": "주식회사 파일러니어",
+      "date": "2026-10-29",
+      "year": 2026,
+      "text": "기아자동차와 공장 전력·에너지 관리·예측 AI 솔루션 기술실증 협약 체결 및 광명시 글로컬 데모데이 파트너십상 수상",
+      "display_text": "기아자동차와 공장 전력·에너지 관리·예측 AI 솔루션 기술실증 협약 체결 및 광명시 글로컬 데모데이 파트너십상 수상",
+      "tag": "MOU",
+      "url": "https://files.newsis.com/view/NISX20261030_0003848033",
       "evidence": true,
       "source_kind": "auto_verified"
     }
