@@ -2,18 +2,18 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": "2026-11-17T08:16:56.985+09:00",
-  "companies_checked": 5,
+  "last_checked_at": "2026-11-18T08:43:13+09:00",
+  "companies_checked": 4,
   "coverage_complete": false,
   "checked_sources": [
-    "2026-11-17: GitHub main companies.json 41개, approved_events.json 431건 조회 후 2건 추가, site_status.json 조회",
-    "2026-11-17: 플렉셀스페이스·그린다·스타스테크·파일러니어·땡스카본 대상 뉴스 검색 및 일부 The VC·공식 연혁 확인; 뉴스1·전자신문·헤럴드경제·벤처스퀘어 교차검증"
+    "2026-11-18: GitHub main companies.json(41), approved_events.json(433→436), site_status.json 조회",
+    "2026-11-18: 파일러니어·에너리치·스타스테크·그린다 뉴스 검색; 뉴시스·타임뉴스·디지틀조선일보·벤처스퀘어·The VC·공공기관 계약정보 대조"
   ],
-  "added_event_count": 2,
-  "total_event_count": 433,
-  "last_update_at": "2026-11-17T08:16:56.985+09:00",
+  "added_event_count": 3,
+  "total_event_count": 436,
+  "last_update_at": "2026-11-18T08:43:13+09:00",
   "status": "partial",
-  "notes": "2건 등록 및 재조회 확인. 41개사 전수 검색 미완료; 나머지 36개사 미검증. 그린다 데모데이 대상은 투자유치와 별개의 수상으로 분류. 플렉셀스페이스 나노아비오닉스 공급 계약은 기존 해외 공급계약 기록과 상대방·발생시점 구분.",
+  "notes": "신규 검증 성과 3건 등록(파일러니어 글로컬 데모데이 최우수상, 기아자동차 기술실증 협약, 에너리치 H2 어워드 최우수상). 41개 전수 미완료. 스타스테크 공공조달 건은 물품/기업 적합성 추가 확인 필요.",
   "last_manual_update_at": "2026-11-13T09:39:34+09:00",
   "last_manual_added_event_count": 2,
   "pending_source_urls": [
