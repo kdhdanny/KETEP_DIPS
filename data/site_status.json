@@ -2,19 +2,19 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": "2026-11-20T08:05:29.297+09:00",
-  "companies_checked": 0,
+  "last_checked_at": "2026-11-21T08:10:51+09:00",
+  "companies_checked": 6,
   "coverage_complete": false,
   "checked_sources": [
-    "2026-11-20: GitHub main companies.json(41), approved_events.json(436), site_status.json 최신 조회",
-    "2026-11-20: 최근 14일 기후테크 기업명 조합·성과 뉴스 검색 3건; 서울대 기후테크 창업경진대회 수상자 대상 기업 대조",
-    "2026-11-20: 혁신의숲 어워즈 예정 공고 및 서울 기후테크 B2G 매칭데이 모집 공고 검토 — 확정 성과 아님"
+    "2026-11-21: GitHub main 기업 41개사·기존 성과 436건·점검 기록 최신 조회",
+    "2026-11-21: 최근 14일 카본밸류·스타스테크·파일러니어·에너리치·플렉셀스페이스·그린다 뉴스 검색 6건",
+    "2026-11-21: The VC 플렉셀스페이스·스타스테크·카본밸류 정보 및 플렉셀스페이스 공식 연혁·기업 발표 대조"
   ],
   "added_event_count": 0,
   "total_event_count": 436,
   "last_update_at": "2026-11-18T08:43:13+09:00",
   "status": "partial",
-  "notes": "기업별 41개사 개별 검색 및 공식 홈페이지·The VC 교차 검증 미완료. 검색 결과에서 신규 확정 성과 확인되지 않음. 기존 보류 스타스테크 공공조달 계약은 확정 근거 미확보로 등록하지 않음.",
+  "notes": "6개사 검색 및 일부 공식 자료 대조만 수행. 41개사 전수 및 후보별 기존 DB 전체 대조 미완료. 플렉셀스페이스 행사 참가 및 스타스테크 입찰 관련 정보는 계약 체결 실적 확인 불가하여 제외. 신규 확정 성과 미검증.",
   "last_manual_update_at": "2026-11-13T09:39:34+09:00",
   "last_manual_added_event_count": 2,
   "pending_source_urls": [
