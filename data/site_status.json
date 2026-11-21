@@ -2,19 +2,21 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": "2026-11-21T08:10:51+09:00",
-  "companies_checked": 6,
+  "last_checked_at": "2026-11-22T08:12:07.313+09:00",
+  "companies_checked": 8,
   "coverage_complete": false,
   "checked_sources": [
-    "2026-11-21: GitHub main 기업 41개사·기존 성과 436건·점검 기록 최신 조회",
-    "2026-11-21: 최근 14일 카본밸류·스타스테크·파일러니어·에너리치·플렉셀스페이스·그린다 뉴스 검색 6건",
-    "2026-11-21: The VC 플렉셀스페이스·스타스테크·카본밸류 정보 및 플렉셀스페이스 공식 연혁·기업 발표 대조"
+    "2026-11-22: GitHub main companies.json 41개사, approved_events.json 436건, site_status.json 조회",
+    "2026-11-22: 최근 14일 전체 기업명 묶음 검색 8회(결과 없음; 기업별 검증으로 간주하지 않음)",
+    "2026-11-22: 플렉셀스페이스·스타스테크·그린다·에너리치 관련 검색 및 기사 대조",
+    "2026-11-22: 땡스카본·포어시스·파일러니어·리하베스트 관련 검색, The VC 리하베스트·파일러니어 조회",
+    "2026-11-22: 리하베스트·포어시스·플렉셀스페이스·그린다 과거 성과의 기존 DB 중복 대조"
   ],
   "added_event_count": 0,
   "total_event_count": 436,
   "last_update_at": "2026-11-18T08:43:13+09:00",
   "status": "partial",
-  "notes": "6개사 검색 및 일부 공식 자료 대조만 수행. 41개사 전수 및 후보별 기존 DB 전체 대조 미완료. 플렉셀스페이스 행사 참가 및 스타스테크 입찰 관련 정보는 계약 체결 실적 확인 불가하여 제외. 신규 확정 성과 미검증.",
+  "notes": "8개사 대상 개별 검색(일부 검색결과 없음) 및 일부 The VC·과거 성과 DB 대조. 41개사 전수·각 기업 공식 자료 교차검증 미완료. 신규 등록 근거 확보하지 못함. 기존 성과 DB 변경 없음.",
   "last_manual_update_at": "2026-11-13T09:39:34+09:00",
   "last_manual_added_event_count": 2,
   "pending_source_urls": [
