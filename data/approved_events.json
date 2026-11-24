@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-18T08:43:04+09:00",
+  "updated_at": "2026-11-24T11:08:00+09:00",
   "events": [
     {
       "company": "플렉셀스페이스 주식회사",
@@ -4797,6 +4797,39 @@
       "url": "https://files.newsis.com/view/NISX20261030_0003848033",
       "evidence": true,
       "source_kind": "auto_verified"
+    },
+    {
+      "company": "주식회사 워터베이션",
+      "date": "2025-11",
+      "year": "2025",
+      "text": "해외 기업 3개사와 기술 협력 및 제품 구매 관련 800억 원 규모 업무협약 체결(확정 수출계약 아님)",
+      "display_text": "(’25.11월) 해외 기업 3개사와 기술 협력 및 제품 구매 관련 800억 원 규모 업무협약 체결(확정 수출계약 아님)",
+      "tag": "MOU",
+      "url": "https://www.unicornfactory.co.kr/article/2025112615584675192/print",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
+      "company": "에코리뉴 주식회사",
+      "date": "2026-04-23",
+      "year": "2026",
+      "text": "대한기계학회 바이오공학부문 춘계학술대회 후원 공로 감사장 수상",
+      "display_text": "(’26.4월) 대한기계학회 바이오공학부문 춘계학술대회 후원 공로 감사장 수상",
+      "tag": "수상",
+      "url": "https://www.ecorenew.co.kr/service/notice.php?code=notice&idx=136&page=1&ptype=view",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
+      "company": "주식회사 리젠티앤아이",
+      "date": "2024-12",
+      "year": "2024",
+      "text": "한국과학기술지주(KST) 시드투자 유치",
+      "display_text": "(’24.12월) 한국과학기술지주(KST) 시드투자 유치",
+      "tag": "투자",
+      "url": "https://magazine.hankyung.com/job-joy/article/202510201264d",
+      "evidence": true,
+      "source_kind": "approved"
     }
   ]
 }
