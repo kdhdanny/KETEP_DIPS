@@ -12,12 +12,12 @@
     "2026-11-23: 최근 우주산업 보도 등 검색 결과 관련성 선별"
   ],
   "added_event_count": 0,
-  "total_event_count": 436,
-  "last_update_at": "2026-11-18T08:43:13+09:00",
+  "total_event_count": 439,
+  "last_update_at": "2026-11-24T11:08:00+09:00",
   "status": "partial",
   "notes": "최근 뉴스 묶음 검색과 그린다 과거 수상 사건의 중복 대조만 수행. 기업별 개별 공식자료·The VC 교차 검증 및 41개사 전수 미완료. 검색에서 발견한 그린다 장관표창은 기존 등록 건으로 제외. 신규 검증 성과 없음.",
-  "last_manual_update_at": "2026-11-13T09:39:34+09:00",
-  "last_manual_added_event_count": 2,
+  "last_manual_update_at": "2026-11-24T11:08:00+09:00",
+  "last_manual_added_event_count": 3,
   "pending_source_urls": [
     "https://www.donga.com/news/Economy/article/all/20261028/134926285/1"
   ]
