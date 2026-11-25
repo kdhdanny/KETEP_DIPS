@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-24T11:08:00+09:00",
+  "updated_at": "2026-11-26T08:47:00+09:00",
   "events": [
     {
       "company": "플렉셀스페이스 주식회사",
@@ -4828,6 +4828,28 @@
       "display_text": "(’24.12월) 한국과학기술지주(KST) 시드투자 유치",
       "tag": "투자",
       "url": "https://magazine.hankyung.com/job-joy/article/202510201264d",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
+      "company": "(주)뉴라이즌",
+      "date": "2026-11",
+      "year": "2026",
+      "text": "신용보증기금 제16기 혁신아이콘 선정",
+      "display_text": "(’26.11월) 신용보증기금 제16기 혁신아이콘 선정",
+      "tag": "판로개척",
+      "url": "https://m.nocutnews.co.kr/news/6603759",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
+      "company": "주식회사 워터베이션",
+      "date": "2026-04",
+      "year": "2026",
+      "text": "케이에이치벤처파트너스 참여 Pre-A 투자 유치",
+      "display_text": "(’26.4월) 케이에이치벤처파트너스 참여 Pre-A 투자 유치",
+      "tag": "투자",
+      "url": "https://thevc.kr/watervation",
       "evidence": true,
       "source_kind": "approved"
     }
