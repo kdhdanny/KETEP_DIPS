@@ -127,7 +127,7 @@ function renderCompanies(){
 }
 
 function renderTimeline(){
-  const arr=filteredEvents();
+  const arr=filteredEvents().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
   const header=$("companyPerformanceHeader");
   if(selectedCompany){
     header.style.display="block";
@@ -136,8 +136,6 @@ function renderTimeline(){
     header.style.display="none";
     header.textContent="";
   }
-  const evidenced=arr.filter(e=>e.evidence);
-  const unsourced=arr.filter(e=>!e.evidence);
   let html="";
   function row(e){
     const src=e.url?`<a href="${e.url}" target="_blank" rel="noopener">원문 보기 →</a>`:`<span class="no-proof">증빙 미등록</span>`;
@@ -147,10 +145,7 @@ function renderTimeline(){
       <div class="timeline-source">${src}</div>
     </div>`;
   }
-  html += evidenced.map(row).join("");
-  if(unsourced.length){
-    html += `<div class="unsourced-divider">증빙 링크가 등록되지 않은 성과</div>` + unsourced.map(row).join("");
-  }
+  html += arr.map(row).join("");
   $("timelineList").innerHTML=html||`<div class="empty">조건에 해당하는 성과 없음</div>`;
 }
 
