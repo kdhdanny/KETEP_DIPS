@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T14:58:48+09:00",
+  "updated_at": "2026-11-27T08:21:17+09:00",
   "events": [
     {
       "company": "플렉셀스페이스 주식회사",
@@ -1356,6 +1356,17 @@
       "source_kind": "approved"
     },
     {
+      "company": "주식회사 퍼스트랩",
+      "date": "2026",
+      "year": "2026",
+      "text": "일본 메이지(Meiji) 유화 테스트 성과를 바탕으로 정식 장비 발주 확보(2026.2.11 보도 기준, 발주일 미공개)",
+      "display_text": "(’26년) 일본 메이지(Meiji) 유화 테스트 성과를 바탕으로 정식 장비 발주 확보(2026.2.11 보도 기준, 발주일 미공개)",
+      "tag": "판로개척",
+      "url": "https://wowtale.net/2026/02/11/254510/",
+      "evidence": true,
+      "source_kind": "auto_verified"
+    },
+    {
       "company": "주식회사포어시스",
       "date": "2025-12-10",
       "year": "2025",
@@ -2498,6 +2509,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 퍼스트랩",
+      "date": "2025-03-27",
+      "year": "2025",
+      "text": "집속형 초음파 기반 산업용 유화·분산 장비 DEBREX 500 상용 제품 출시",
+      "display_text": "(’25년 3월) 집속형 초음파 기반 산업용 유화·분산 장비 DEBREX 500 상용 제품 출시",
+      "tag": "기술개발",
+      "url": "https://www.mt.co.kr/future/2025/03/27/2025032615253182607",
+      "evidence": true,
+      "source_kind": "auto_verified"
     },
     {
       "company": "알머티리얼즈 주식회사",
