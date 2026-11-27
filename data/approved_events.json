@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T08:21:17+09:00",
+  "updated_at": "2026-11-27T11:25:00+09:00",
   "events": [
     {
       "company": "플렉셀스페이스 주식회사",
@@ -773,6 +773,17 @@
       "source_kind": "source_excel_timeline"
     },
     {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2026-06",
+      "year": "2026",
+      "text": "Aviation Week Space Tech Challenge Awards 상업화 부문 최종후보 선정(최종 수상 아님, 6월 18일 보도)",
+      "display_text": "(’26.6월) Aviation Week Space Tech Challenge Awards 상업화 부문 최종후보 선정(최종 수상 아님, 6월 18일 보도)",
+      "tag": "판로개척",
+      "url": "https://www.etnews.com/20260618000412",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
       "company": "에코리뉴 주식회사",
       "date": "2026-05-22",
       "year": "2026",
@@ -1222,6 +1233,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2026-02",
+      "year": "2026",
+      "text": "의왕 연구소 초경량 우주용 태양전지 파일럿 제조시설 준공",
+      "display_text": "(’26.2월) 의왕 연구소 초경량 우주용 태양전지 파일럿 제조시설 준공",
+      "tag": "기술개발",
+      "url": "https://kr.flexellspace.com/company",
+      "evidence": true,
+      "source_kind": "approved"
     },
     {
       "company": "주식회사 그린다",
@@ -1774,6 +1796,17 @@
       "source_kind": "approved"
     },
     {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2025-11",
+      "year": "2025",
+      "text": "K-AEROSPACE 오픈이노베이션 한국항공우주산업(KAI) 대표이사상 수상",
+      "display_text": "(’25.11월) K-AEROSPACE 오픈이노베이션 한국항공우주산업(KAI) 대표이사상 수상",
+      "tag": "수상",
+      "url": "https://kr.flexellspace.com/PRESS-RELEASES",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
       "company": "알머티리얼즈 주식회사",
       "date": "2025-10-21",
       "year": "2025",
@@ -1882,6 +1915,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2025-10",
+      "year": "2025",
+      "text": "독일 Dcubed와 차세대 태양광 어레이 개발 MOU 체결",
+      "display_text": "(’25.10월) 독일 Dcubed와 차세대 태양광 어레이 개발 MOU 체결",
+      "tag": "MOU",
+      "url": "https://www.mt.co.kr/industry/2025/10/14/2025101415511960577",
+      "evidence": true,
+      "source_kind": "approved"
     },
     {
       "company": "휴마스터",
@@ -2707,6 +2751,28 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2025-02",
+      "year": "2025",
+      "text": "스페인 DHV Technology와 태양전지 공급 및 제품군 구축 협력 MOU 체결",
+      "display_text": "(’25.2월) 스페인 DHV Technology와 태양전지 공급 및 제품군 구축 협력 MOU 체결",
+      "tag": "MOU",
+      "url": "https://kr.flexellspace.com/company-backup",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
+      "company": "플렉셀스페이스 주식회사",
+      "date": "2025-02",
+      "year": "2025",
+      "text": "이탈리아 D-Orbit와 태양전지 검증 및 공급 협력 MOU 체결",
+      "display_text": "(’25.2월) 이탈리아 D-Orbit와 태양전지 검증 및 공급 협력 MOU 체결",
+      "tag": "MOU",
+      "url": "https://kr.flexellspace.com/company-backup",
+      "evidence": true,
+      "source_kind": "approved"
     },
     {
       "company": "주식회사 아미스트",
@@ -4346,6 +4412,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "카본밸류",
+      "date": "2023-04",
+      "year": "2023",
+      "text": "SK에코플랜트·한국남부발전 등과 영월 연료전지 연계 탄소포집·액화·활용 실증사업 참여(핵심기술 개발 및 인허가 담당, 4월 24일 착수 발표)",
+      "display_text": "(’23.4월) SK에코플랜트·한국남부발전 등과 영월 연료전지 연계 탄소포집·액화·활용 실증사업 참여(핵심기술 개발 및 인허가 담당, 4월 24일 착수 발표)",
+      "tag": "기술개발",
+      "url": "https://news.skecoplant.com/board/10474",
+      "evidence": true,
+      "source_kind": "approved"
     },
     {
       "company": "알머티리얼즈 주식회사",
