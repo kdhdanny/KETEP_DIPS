@@ -2,25 +2,26 @@
   "schema_version": 1,
   "automation_enabled": true,
   "schedule": "매일 오전 8시경 (Asia/Seoul, 유동 실행)",
-  "last_checked_at": "2026-11-27T08:21:17+09:00",
+  "last_checked_at": "2026-11-28T08:44:25+09:00",
   "companies_checked": 0,
   "coverage_complete": false,
   "checked_sources": [
-    "GitHub main 기업 41개 및 성과 454건 조회",
+    "GitHub main 기업 41개 및 성과 463건 조회",
     "41개 기업명 7개 그룹 최근 14일 검색",
-    "뉴스톱, 머니투데이, 와우테일, 이노폴리스벤처협회",
-    "The VC 퍼스트랩·에코넥트·플렉셀스페이스",
-    "에코리뉴 공식 홈페이지 및 플렉셀스페이스 LinkedIn 검색 결과"
+    "The VC 플렉셀스페이스·워터베이션·바이오룸",
+    "바이오룸·에코리뉴 공식 홈페이지, 플렉셀스페이스 공식 LinkedIn",
+    "경상일보·헤럴드경제·노컷뉴스·이투데이·KSPost 검색 결과"
   ],
-  "added_event_count": 2,
+  "added_event_count": 0,
   "total_event_count": 463,
   "last_update_at": "2026-11-27T11:25:00+09:00",
   "status": "partial",
-  "notes": "41개 기업명 묶음 검색 수행, 기업별 전체 출처 검증 완료 0개. 퍼스트랩 상용 장비 출시 및 메이지 발주 확보 신규 등록. 35억원 유상증자는 11월 30일 납입 예정으로 보류. 정부·지자체 및 해외 개별 출처 전수 검증 미완료.",
+  "notes": "바이오룸 UFEZ 선정, 뉴라이즌 혁신아이콘, 워터베이션 투자 등 기존 성과 중복 제외. 플렉셀스페이스 특허대상은 별도 심화조사 미승인 후보 F13으로 주최기관 확인 전 보류. 41개사 개별 출처 전수 검증 미완료.",
   "last_manual_update_at": "2026-11-27T11:25:00+09:00",
   "last_manual_added_event_count": 7,
   "pending_source_urls": [
     "https://www.donga.com/news/Economy/article/all/20261028/134926285/1",
-    "https://www.newstopkorea.com/ko-kr/articles/49162"
+    "https://www.newstopkorea.com/ko-kr/articles/49162",
+    "https://kr.linkedin.com/posts/flexellspace_koreapatentawards-aerospace-spacesolarcells-activity-7412020150000021505-T5V4"
   ]
 }
