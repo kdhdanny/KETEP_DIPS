@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-27T11:25:00+09:00",
+  "updated_at": "2026-11-28T15:50:00+09:00",
   "events": [
     {
       "company": "플렉셀스페이스 주식회사",
@@ -2203,6 +2203,17 @@
       "source_kind": "source_excel_timeline"
     },
     {
+      "company": "(주)뉴라이즌",
+      "date": "2025-07",
+      "year": "2025",
+      "text": "신용보증기금 프리아이콘 최종 선정(3년간 총 40억 원 보증 지원 대상, 7월 18일 발표)",
+      "display_text": "(’25.7월) 신용보증기금 프리아이콘 최종 선정(3년간 총 40억 원 보증 지원 대상, 7월 18일 발표)",
+      "tag": "판로개척",
+      "url": "https://newrizon.kr/newsroom/News/31",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
       "company": "주식회사 엘포톤",
       "date": "2025-06-22",
       "year": "2025",
@@ -2566,6 +2577,17 @@
       "source_kind": "auto_verified"
     },
     {
+      "company": "(주)뉴라이즌",
+      "date": "2025-03-27",
+      "year": "2025",
+      "text": "울산 필터 소재 생산공장 준공",
+      "display_text": "(’25.3월) 울산 필터 소재 생산공장 준공",
+      "tag": "기술개발",
+      "url": "https://newrizon.kr/newsroom/News/6",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
       "company": "알머티리얼즈 주식회사",
       "date": "2025-03-14",
       "year": "2025",
@@ -2881,6 +2903,17 @@
       "display_text": "(’25년) 국내외 대기업 및 공공기관 대상 소재 납품 계약 체결(2025.12.19 보도 기준, 계약 상대·금액·일자 미공개)",
       "tag": "판로개척",
       "url": "https://magazine.hankyung.com/job-joy/article/202512194998d",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
+      "company": "휴마스터",
+      "date": "2025",
+      "year": "2025",
+      "text": "국내 대형 제약사 2개사 생산시설에 천장형 제습공조기 휴미컨 적용(2026년 5월 10일 발표)",
+      "display_text": "(’25년) 국내 대형 제약사 2개사 생산시설에 천장형 제습공조기 휴미컨 적용(2026년 5월 10일 발표)",
+      "tag": "판로개척",
+      "url": "https://www.hu-master.com/news/detail/%ED%9C%B4%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%97%90%EB%84%88%EC%A7%80-%EC%A0%88%EC%95%BD%ED%95%98%EB%8A%94-%EC%A0%9C%EC%8A%B5%EA%B8%B0-%EC%A0%9C%EC%95%BD%C2%B7%EB%B0%94%EC%9D%B4%EC%98%A4/",
       "evidence": true,
       "source_kind": "approved"
     },
@@ -3875,6 +3908,17 @@
       "source_kind": "source_excel"
     },
     {
+      "company": "주식회사 스타스테크",
+      "date": "2024-02-21",
+      "year": "2024",
+      "text": "콘크리트 파손이 억제된 친환경 액상 제설제 특허 등록(KR102638668B1)",
+      "display_text": "(’24.2월) 콘크리트 파손이 억제된 친환경 액상 제설제 특허 등록(KR102638668B1)",
+      "tag": "기술개발",
+      "url": "https://patents.google.com/patent/KR102638668B1/ko",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
       "company": "(주)에이브람스",
       "date": "2024-01",
       "year": "2024",
@@ -4678,6 +4722,39 @@
       "source_kind": "source_excel_timeline"
     },
     {
+      "company": "주식회사 스타스테크",
+      "date": "2023",
+      "year": "2023",
+      "text": "우수환경산업체 선정",
+      "display_text": "(’23년) 우수환경산업체 선정",
+      "tag": "인증",
+      "url": "https://www.starstech.co.kr/kor/about.php",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
+      "company": "주식회사 스타스테크",
+      "date": "2023",
+      "year": "2023",
+      "text": "중소기업 R&D 우수성과 대표기업 선정",
+      "display_text": "(’23년) 중소기업 R&D 우수성과 대표기업 선정",
+      "tag": "기술개발",
+      "url": "https://www.starstech.co.kr/kor/about.php",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
+      "company": "주식회사 스타스테크",
+      "date": "2023",
+      "year": "2023",
+      "text": "대한상공회의소 자발적 탄소배출권 방법론 승인",
+      "display_text": "(’23년) 대한상공회의소 자발적 탄소배출권 방법론 승인",
+      "tag": "인증",
+      "url": "https://money2.daishin.com/PDF/Out/intranet_data/product/researchcenter/report/2024/04/49634_24_starstech_unlisted_scaleup2404.pdf",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
       "company": "주식회사 파일러니어",
       "date": "2022-12",
       "year": "2022",
@@ -4975,6 +5052,28 @@
       "source_kind": "source_excel_timeline"
     },
     {
+      "company": "휴마스터",
+      "date": "2021",
+      "year": "2021",
+      "text": "산업통상자원부 휴미컨 신제품(NEP) 인증 획득",
+      "display_text": "(’21년) 산업통상자원부 휴미컨 신제품(NEP) 인증 획득",
+      "tag": "인증",
+      "url": "https://www.hu-master.com/company-history/",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
+      "company": "휴마스터",
+      "date": "2020-12-22",
+      "year": "2020",
+      "text": "제8회 미래창조경영우수기업대상 기술혁신 부문 대상 수상",
+      "display_text": "(’20.12월) 제8회 미래창조경영우수기업대상 기술혁신 부문 대상 수상",
+      "tag": "수상",
+      "url": "https://www.hu-master.com/awards/",
+      "evidence": true,
+      "source_kind": "approved"
+    },
+    {
       "company": "주식회사포어시스",
       "date": "2020-06",
       "year": "2020",
@@ -5006,6 +5105,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "휴마스터",
+      "date": "2020",
+      "year": "2020",
+      "text": "조달청 벤처나라 지정",
+      "display_text": "(’20년) 조달청 벤처나라 지정",
+      "tag": "판로개척",
+      "url": "https://www.hu-master.com/company-history/",
+      "evidence": true,
+      "source_kind": "approved"
     },
     {
       "company": "주식회사 그래비스",
@@ -5083,6 +5193,17 @@
       "url": "",
       "evidence": false,
       "source_kind": "source_excel_timeline"
+    },
+    {
+      "company": "주식회사 스타스테크",
+      "date": "2017",
+      "year": "2017",
+      "text": "도전 K-스타트업 국방부 장관상 수상",
+      "display_text": "(’17년) 도전 K-스타트업 국방부 장관상 수상",
+      "tag": "수상",
+      "url": "https://money2.daishin.com/PDF/Out/intranet_data/product/researchcenter/report/2024/04/49634_24_starstech_unlisted_scaleup2404.pdf",
+      "evidence": true,
+      "source_kind": "approved"
     },
     {
       "company": "주식회사 엘포톤",
